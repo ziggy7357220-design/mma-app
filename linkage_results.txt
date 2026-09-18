@@ -1,0 +1,435 @@
+total_steps=429
+linked_steps=42
+unlinked_steps=387
+invalid_ids=0
+unique_linked_ids=31
+--------------------
+boxing_footwork_beg|Linear Foundation|Warm-up|None|None|D|No drillId assigned
+boxing_footwork_beg|Linear Foundation|Stance Integrity|stance|Stance|C|Semantic match
+boxing_footwork_beg|Linear Foundation|Linear Slides|basic_footwork|Basic Footwork|C|Semantic match
+boxing_footwork_beg|Linear Foundation|Lateral Slides|basic_footwork|Basic Footwork|C|Semantic match
+boxing_footwork_beg|Linear Foundation|Cool-down|None|None|D|No drillId assigned
+boxing_fundamentals|The First Punch|Warm-up|None|None|D|No drillId assigned
+boxing_fundamentals|The First Punch|Guard Mastery|None|None|D|No drillId assigned
+boxing_fundamentals|The First Punch|The Jab|jab|Jab|C|Semantic match
+boxing_fundamentals|The First Punch|The Cross|boxing_cross|Cross|C|Semantic match
+boxing_fundamentals|The First Punch|The 1-2 Sequence|None|None|D|No drillId assigned
+boxing_fundamentals|The First Punch|Cool-down|None|None|D|No drillId assigned
+boxing_punches_beg|Snap & Return|Warm-up|None|None|D|No drillId assigned
+boxing_punches_beg|Snap & Return|The Recoil|None|None|D|No drillId assigned
+boxing_punches_beg|Snap & Return|Relaxation/Snap|None|None|D|No drillId assigned
+boxing_punches_beg|Snap & Return|Speed Control|None|None|D|No drillId assigned
+boxing_punches_beg|Snap & Return|Cool-down|None|None|D|No drillId assigned
+boxing_cond_beg|Boxer\|Warm-up|None|None|D|No drillId assigned
+boxing_cond_beg|Boxer\|Stance Intervals|None|None|D|No drillId assigned
+boxing_cond_beg|Boxer\|Rotational Core|None|None|D|No drillId assigned
+boxing_cond_beg|Boxer\|Recovery Movement|None|None|D|No drillId assigned
+boxing_footwork|Angle Cutting|Warm-up|None|None|D|No drillId assigned
+boxing_footwork|Angle Cutting|Controlled Pivots|footwork_pivot|Pivot|C|Semantic match
+boxing_footwork|Angle Cutting|L-Step/V-Step|footwork_v_step|V-Step|C|Semantic match
+boxing_footwork|Angle Cutting|Angle Integration|None|None|D|No drillId assigned
+boxing_footwork|Angle Cutting|Ring Cutting|None|None|D|No drillId assigned
+boxing_footwork|Angle Cutting|Cool-down|None|None|D|No drillId assigned
+boxing_punches_int|Power & Precision|Warm-up|None|None|D|No drillId assigned
+boxing_punches_int|Power & Precision|Mechanics|None|None|D|No drillId assigned
+boxing_punches_int|Power & Precision|Integration|None|None|D|No drillId assigned
+boxing_punches_int|Power & Precision|Range/Level Changes|None|None|D|No drillId assigned
+boxing_punches_int|Power & Precision|Controlled Power|None|None|D|No drillId assigned
+boxing_punches_int|Power & Precision|Cool-down|None|None|D|No drillId assigned
+boxing_defense|The Art of the Slip|Warm-up|None|None|D|No drillId assigned
+boxing_defense|The Art of the Slip|The Slip|slip|Slip|C|Semantic match
+boxing_defense|The Art of the Slip|The Roll|boxing_roll|Roll|C|Semantic match
+boxing_defense|The Art of the Slip|The Parry|boxing_parry|Parry|C|Semantic match
+boxing_defense|The Art of the Slip|Defensive-Counter|None|None|D|No drillId assigned
+boxing_defense|The Art of the Slip|Cool-down|None|None|D|No drillId assigned
+boxing_combinations|Range Sequencing|Warm-up|None|None|D|No drillId assigned
+boxing_combinations|Range Sequencing|Long Range|None|None|D|No drillId assigned
+boxing_combinations|Range Sequencing|Mid Range|None|None|D|No drillId assigned
+boxing_combinations|Range Sequencing|Inside Range|None|None|D|No drillId assigned
+boxing_combinations|Range Sequencing|Range Transition|None|None|D|No drillId assigned
+boxing_combinations|Range Sequencing|Cool-down|None|None|D|No drillId assigned
+boxing_bag_work|Heavy Bag Impact|Warm-up|None|None|D|No drillId assigned
+boxing_bag_work|Heavy Bag Impact|Precision Impact|None|None|D|No drillId assigned
+boxing_bag_work|Heavy Bag Impact|Combination Power|None|None|D|No drillId assigned
+boxing_bag_work|Heavy Bag Impact|High-Output Intervals|None|None|D|No drillId assigned
+boxing_bag_work|Heavy Bag Impact|Cool-down|None|None|D|No drillId assigned
+boxing_combos_adv|Elite Flow|Warm-up|None|None|D|No drillId assigned
+boxing_combos_adv|Elite Flow|Complexity Layering|None|None|D|No drillId assigned
+boxing_combos_adv|Elite Flow|Defense-Offense Integration|None|None|D|No drillId assigned
+boxing_combos_adv|Elite Flow|Angle Exits|None|None|D|No drillId assigned
+boxing_combos_adv|Elite Flow|Conditional Transitions|None|None|D|No drillId assigned
+boxing_combos_adv|Elite Flow|Cool-down|None|None|D|No drillId assigned
+boxing_advanced_drills|Scenario Shadowbox|Warm-up|None|None|D|No drillId assigned
+boxing_advanced_drills|Scenario Shadowbox|Scenario A - The Aggressor|None|None|D|No drillId assigned
+boxing_advanced_drills|Scenario Shadowbox|Scenario B - The Counter|None|None|D|No drillId assigned
+boxing_advanced_drills|Scenario Shadowbox|Scenario C - The Infighter|None|None|D|No drillId assigned
+boxing_advanced_drills|Scenario Shadowbox|Conditional Response|None|None|D|No drillId assigned
+boxing_advanced_drills|Scenario Shadowbox|Champ Round|None|None|D|No drillId assigned
+boxing_advanced_drills|Scenario Shadowbox|Cool-down|None|None|D|No drillId assigned
+mt_fund_beg|The Foundation|Warm-up|None|None|D|No drillId assigned
+mt_fund_beg|The Foundation|Stance Integrity|stance|Stance|C|Semantic match
+mt_fund_beg|The Foundation|The Thai March|None|None|D|No drillId assigned
+mt_fund_beg|The Foundation|High Guard Maintenance|None|None|D|No drillId assigned
+mt_fund_beg|The Foundation|Integrated Motion|None|None|D|No drillId assigned
+mt_fund_beg|The Foundation|Cool-down|None|None|D|No drillId assigned
+mt_footwork_beg|Thai Motion|Warm-up|None|None|D|No drillId assigned
+mt_footwork_beg|Thai Motion|Linear Slides|basic_footwork|Basic Footwork|C|Semantic match
+mt_footwork_beg|Thai Motion|Basic Pivots|footwork_pivot|Pivot|C|Semantic match
+mt_footwork_beg|Thai Motion|Square Motion|None|None|D|No drillId assigned
+mt_footwork_beg|Thai Motion|Rhythm Hold|None|None|D|No drillId assigned
+mt_footwork_beg|Thai Motion|Cool-down|None|None|D|No drillId assigned
+mt_striking_beg|Basic 8 Limbs|Warm-up|None|None|D|No drillId assigned
+mt_striking_beg|Basic 8 Limbs|The 4 Punches|None|None|D|No drillId assigned
+mt_striking_beg|Basic 8 Limbs|The 2 Kicks|None|None|D|No drillId assigned
+mt_striking_beg|Basic 8 Limbs|The 2 Knees|None|None|D|No drillId assigned
+mt_striking_beg|Basic 8 Limbs|The Elbows|None|None|D|No drillId assigned
+mt_striking_beg|Basic 8 Limbs|Cool-down|None|None|D|No drillId assigned
+mt_kicks_beg|Kick Mechanics|Warm-up|None|None|D|No drillId assigned
+mt_kicks_beg|Kick Mechanics|Teep Mechanics|None|None|D|No drillId assigned
+mt_kicks_beg|Kick Mechanics|The Pivot|footwork_pivot|Pivot|C|Semantic match
+mt_kicks_beg|Kick Mechanics|Mid-kick Arc|None|None|D|No drillId assigned
+mt_kicks_beg|Kick Mechanics|Low-kick Snap|None|None|D|No drillId assigned
+mt_kicks_beg|Kick Mechanics|Recovery/Reset|None|None|D|No drillId assigned
+mt_kicks_beg|Kick Mechanics|Cool-down|None|None|D|No drillId assigned
+mt_cond_beg|Thai Base|Warm-up|None|None|D|No drillId assigned
+mt_cond_beg|Thai Base|Stance Endurance Intervals|None|None|D|No drillId assigned
+mt_cond_beg|Thai Base|Rotational Core|None|None|D|No drillId assigned
+mt_cond_beg|Thai Base|Hip Mobility|None|None|D|No drillId assigned
+mt_cond_beg|Thai Base|Cool-down|None|None|D|No drillId assigned
+mt_defense_beg|The Shield|Warm-up|None|None|D|No drillId assigned
+mt_defense_beg|The Shield|Guard Positioning|None|None|D|No drillId assigned
+mt_defense_beg|The Shield|Lead Check|None|None|D|No drillId assigned
+mt_defense_beg|The Shield|Rear Check|None|None|D|No drillId assigned
+mt_defense_beg|The Shield|Punch Parries|None|None|D|No drillId assigned
+mt_defense_beg|The Shield|Recovery/Reset|None|None|D|No drillId assigned
+mt_defense_beg|The Shield|Cool-down|None|None|D|No drillId assigned
+mt_elbows_int|Razor Edges|Warm-up|None|None|D|No drillId assigned
+mt_elbows_int|Razor Edges|Horizontal Elbows|None|None|D|No drillId assigned
+mt_elbows_int|Razor Edges|Upward Elbows|None|None|D|No drillId assigned
+mt_elbows_int|Razor Edges|Diagonal Elbows|None|None|D|No drillId assigned
+mt_elbows_int|Razor Edges|Entry/Exit Drills|None|None|D|No drillId assigned
+mt_elbows_int|Razor Edges|Recovery/Reset|None|None|D|No drillId assigned
+mt_elbows_int|Razor Edges|Cool-down|None|None|D|No drillId assigned
+mt_knees_int|Piercing Power|Warm-up|None|None|D|No drillId assigned
+mt_knees_int|Piercing Power|Straight Knee Mechanics|None|None|D|No drillId assigned
+mt_knees_int|Piercing Power|Curving Knee Mechanics|None|None|D|No drillId assigned
+mt_knees_int|Piercing Power|Knee-Punch Integration|None|None|D|No drillId assigned
+mt_knees_int|Piercing Power|Hip-Drive Intervals|None|None|D|No drillId assigned
+mt_knees_int|Piercing Power|Recovery/Reset|None|None|D|No drillId assigned
+mt_knees_int|Piercing Power|Cool-down|None|None|D|No drillId assigned
+mt_striking_int|Limb Integration|Warm-up|None|None|D|No drillId assigned
+mt_striking_int|Limb Integration|Punch-to-Kick|None|None|D|No drillId assigned
+mt_striking_int|Limb Integration|Kick-to-Punch|None|None|D|No drillId assigned
+mt_striking_int|Limb Integration|Punch-to-Knee|None|None|D|No drillId assigned
+mt_striking_int|Limb Integration|Full Limb Flow|None|None|D|No drillId assigned
+mt_striking_int|Limb Integration|Cool-down|None|None|D|No drillId assigned
+mt_clinch_int|The Plum (Solo Prep)|Warm-up|None|None|D|No drillId assigned
+mt_clinch_int|The Plum (Solo Prep)|Plum Posture Hold|None|None|D|No drillId assigned
+mt_clinch_int|The Plum (Solo Prep)|Neck Control Motion|None|None|D|No drillId assigned
+mt_clinch_int|The Plum (Solo Prep)|Shoulder-Rolls|None|None|D|No drillId assigned
+mt_clinch_int|The Plum (Solo Prep)|Clinch-Knee Flow|None|None|D|No drillId assigned
+mt_clinch_int|The Plum (Solo Prep)|Cool-down|None|None|D|No drillId assigned
+mt_combos_int|Fluid Sequences|Warm-up|None|None|D|No drillId assigned
+mt_combos_int|Fluid Sequences|Linear Combinations|None|None|D|No drillId assigned
+mt_combos_int|Fluid Sequences|Mixed-Limb Combinations|None|None|D|No drillId assigned
+mt_combos_int|Fluid Sequences|Rhythm Switches|None|None|D|No drillId assigned
+mt_combos_int|Fluid Sequences|Flow Intervals|None|None|D|No drillId assigned
+mt_combos_int|Fluid Sequences|Cool-down|None|None|D|No drillId assigned
+mt_cond_int|Power & Recovery|Warm-up|None|None|D|No drillId assigned
+mt_cond_int|Power & Recovery|High-Output Bursts|None|None|D|No drillId assigned
+mt_cond_int|Power & Recovery|Active Recovery March|None|None|D|No drillId assigned
+mt_cond_int|Power & Recovery|Rotational Power Core|None|None|D|No drillId assigned
+mt_cond_int|Power & Recovery|Final Endurance Hold|None|None|D|No drillId assigned
+mt_cond_int|Power & Recovery|Cool-down|None|None|D|No drillId assigned
+mt_def_int|Counter-Striking|Warm-up|None|None|D|No drillId assigned
+mt_def_int|Counter-Striking|Check-to-Kick|None|None|D|No drillId assigned
+mt_def_int|Counter-Striking|Lean-to-Punch|None|None|D|No drillId assigned
+mt_def_int|Counter-Striking|Slip-to-Elbow|None|None|D|No drillId assigned
+mt_def_int|Counter-Striking|Reaction Flow|None|None|D|No drillId assigned
+mt_def_int|Counter-Striking|Cool-down|None|None|D|No drillId assigned
+mt_combos_adv|Elite Flow|Warm-up|None|None|D|No drillId assigned
+mt_combos_adv|Elite Flow|Feint-to-Strike|None|None|D|No drillId assigned
+mt_combos_adv|Elite Flow|Distance-Shift Flow|None|None|D|No drillId assigned
+mt_combos_adv|Elite Flow|High-Complexity Chains|None|None|D|No drillId assigned
+mt_combos_adv|Elite Flow|Conditional Response|None|None|D|No drillId assigned
+mt_combos_adv|Elite Flow|Cool-down|None|None|D|No drillId assigned
+mt_movement_int|Ring Craft|Warm-up|None|None|D|No drillId assigned
+mt_movement_int|Ring Craft|L/V Step Drills|None|None|D|No drillId assigned
+mt_movement_int|Ring Craft|Pivot-to-Strike|None|None|D|No drillId assigned
+mt_movement_int|Ring Craft|Ring Cutting Motion|None|None|D|No drillId assigned
+mt_movement_int|Ring Craft|Movement-Sprints|None|None|D|No drillId assigned
+mt_movement_int|Ring Craft|Cool-down|None|None|D|No drillId assigned
+mt_adv_drills|Scenario Shadowbox|Warm-up|None|None|D|No drillId assigned
+mt_adv_drills|Scenario Shadowbox|Scenario A: The Aggressor|None|None|D|No drillId assigned
+mt_adv_drills|Scenario Shadowbox|Scenario B: The Out-fighter|None|None|D|No drillId assigned
+mt_adv_drills|Scenario Shadowbox|Scenario C: The Clincher|None|None|D|No drillId assigned
+mt_adv_drills|Scenario Shadowbox|Conditional Reaction|None|None|D|No drillId assigned
+mt_adv_drills|Scenario Shadowbox|Champ Round|None|None|D|No drillId assigned
+mt_adv_drills|Scenario Shadowbox|Cool-down|None|None|D|No drillId assigned
+tkd_footwork_beg|Linear Foundation|Warm-up|None|None|D|No drillId assigned
+tkd_footwork_beg|Linear Foundation|Stance Integrity|stance|Stance|C|Semantic match
+tkd_footwork_beg|Linear Foundation|Linear Slides|basic_footwork|Basic Footwork|C|Semantic match
+tkd_footwork_beg|Linear Foundation|Pivot Basics|None|None|D|No drillId assigned
+tkd_footwork_beg|Linear Foundation|Rhythm Drills|None|None|D|No drillId assigned
+tkd_footwork_beg|Linear Foundation|Cool-down|None|None|D|No drillId assigned
+tkd_kicking_beg|Kick Basics|Warm-up|None|None|D|No drillId assigned
+tkd_kicking_beg|Kick Basics|Front Snap Kick|front_kick|Front Kick|C|Semantic match
+tkd_kicking_beg|Kick Basics|Roundhouse Basics|None|None|D|No drillId assigned
+tkd_kicking_beg|Kick Basics|Side Kick Basics|kicks_side|Side Kick|C|Semantic match
+tkd_kicking_beg|Kick Basics|Kicking Drills|None|None|D|No drillId assigned
+tkd_kicking_beg|Kick Basics|Recovery/Reset|None|None|D|No drillId assigned
+tkd_kicking_beg|Kick Basics|Cool-down|None|None|D|No drillId assigned
+tkd_blocks_beg|Defense & Blocks|Warm-up|None|None|D|No drillId assigned
+tkd_blocks_beg|Defense & Blocks|Low Block|None|None|D|No drillId assigned
+tkd_blocks_beg|Defense & Blocks|High Block|None|None|D|No drillId assigned
+tkd_blocks_beg|Defense & Blocks|Inner Block|None|None|D|No drillId assigned
+tkd_blocks_beg|Defense & Blocks|Block-to-Stance Flow|None|None|D|No drillId assigned
+tkd_blocks_beg|Defense & Blocks|Cool-down|None|None|D|No drillId assigned
+tkd_fund_beg|The Foundation|Warm-up|None|None|D|No drillId assigned
+tkd_fund_beg|The Foundation|Stance Mastery|None|None|D|No drillId assigned
+tkd_fund_beg|The Foundation|Basic Punching|None|None|D|No drillId assigned
+tkd_fund_beg|The Foundation|Integrated Motion|None|None|D|No drillId assigned
+tkd_fund_beg|The Foundation|Core Stability|None|None|D|No drillId assigned
+tkd_fund_beg|The Foundation|Cool-down|None|None|D|No drillId assigned
+tkd_kicking_int|Advanced Kicking|Warm-up|None|None|D|No drillId assigned
+tkd_kicking_int|Advanced Kicking|Double Kicks|None|None|D|No drillId assigned
+tkd_kicking_int|Advanced Kicking|Spinning Hook Kick|kicks_hook|Hook Kick|C|Semantic match
+tkd_kicking_int|Advanced Kicking|Tornado Kick|kicks_tornado|Tornado Kick|A|Exact match
+tkd_kicking_int|Advanced Kicking|Precision Drills|None|None|D|No drillId assigned
+tkd_kicking_int|Advanced Kicking|Recovery Flow|None|None|D|No drillId assigned
+tkd_kicking_int|Advanced Kicking|Cool-down|None|None|D|No drillId assigned
+tkd_combos_int|Combo Flow|Warm-up|None|None|D|No drillId assigned
+tkd_combos_int|Combo Flow|Punch-Kick Flow|None|None|D|No drillId assigned
+tkd_combos_int|Combo Flow|Double Kick Flow|None|None|D|No drillId assigned
+tkd_combos_int|Combo Flow|Defense-Counter|None|None|D|No drillId assigned
+tkd_combos_int|Combo Flow|Combo Intervals|None|None|D|No drillId assigned
+tkd_combos_int|Combo Flow|Reset & Recover|None|None|D|No drillId assigned
+tkd_combos_int|Combo Flow|Cool-down|None|None|D|No drillId assigned
+tkd_movement_int|Dynamic Movement|Warm-up|None|None|D|No drillId assigned
+tkd_movement_int|Dynamic Movement|Sliding Steps|None|None|D|No drillId assigned
+tkd_movement_int|Dynamic Movement|Pivot-Turn|None|None|D|No drillId assigned
+tkd_movement_int|Dynamic Movement|Combat Bouncing|None|None|D|No drillId assigned
+tkd_movement_int|Dynamic Movement|Distance Drills|None|None|D|No drillId assigned
+tkd_movement_int|Dynamic Movement|Cool-down|None|None|D|No drillId assigned
+tkd_mobility_beg|Flexibility & Mobility|Dynamic Warm-up|None|None|D|No drillId assigned
+tkd_mobility_beg|Flexibility & Mobility|Leg Swings|None|None|D|No drillId assigned
+tkd_mobility_beg|Flexibility & Mobility|Hip Openers|None|None|D|No drillId assigned
+tkd_mobility_beg|Flexibility & Mobility|Static Stretching|None|None|D|No drillId assigned
+tkd_mobility_beg|Flexibility & Mobility|Cool-down|None|None|D|No drillId assigned
+tkd_advanced_flow|Elite Kicking|Warm-up|None|None|D|No drillId assigned
+tkd_advanced_flow|Elite Kicking|Multi-Kick Sequences|None|None|D|No drillId assigned
+tkd_advanced_flow|Elite Kicking|Precision Targets|None|None|D|No drillId assigned
+tkd_advanced_flow|Elite Kicking|Speed Drills|None|None|D|No drillId assigned
+tkd_advanced_flow|Elite Kicking|Flow Scenarios|None|None|D|No drillId assigned
+tkd_advanced_flow|Elite Kicking|Cool-down|None|None|D|No drillId assigned
+bjj_fund_beg|The Basics|Warm-up|None|None|D|No drillId assigned
+bjj_fund_beg|The Basics|Shrimp Sets|None|None|D|No drillId assigned
+bjj_fund_beg|The Basics|Bridging|None|None|D|No drillId assigned
+bjj_fund_beg|The Basics|Technical Stand-up|None|None|D|No drillId assigned
+bjj_fund_beg|The Basics|Core Stability|None|None|D|No drillId assigned
+bjj_fund_beg|The Basics|Cool-down|None|None|D|No drillId assigned
+bjj_guard_beg|Guard Basics|Warm-up|None|None|D|No drillId assigned
+bjj_guard_beg|Guard Basics|Guard Posture|None|None|D|No drillId assigned
+bjj_guard_beg|Guard Basics|Open Guard Transitions|None|None|D|No drillId assigned
+bjj_guard_beg|Guard Basics|Closed Guard Maintenance|closed_guard|Closed Guard|C|Semantic match
+bjj_guard_beg|Guard Basics|Guard Recovery|grapple_trans_turtle_to_guard|Turtle to Guard Recovery|C|Semantic match
+bjj_guard_beg|Guard Basics|Cool-down|None|None|D|No drillId assigned
+bjj_passing_int|Guard Passing|Warm-up|None|None|D|No drillId assigned
+bjj_passing_int|Guard Passing|Toreando Pass|grapple_pass_toreando|Toreando Pass|A|Exact match
+bjj_passing_int|Guard Passing|Pressure Pass|None|None|D|No drillId assigned
+bjj_passing_int|Guard Passing|Pass-to-Mount|None|None|D|No drillId assigned
+bjj_passing_int|Guard Passing|Guard Recovery Counter|grapple_trans_turtle_to_guard|Turtle to Guard Recovery|C|Semantic match
+bjj_passing_int|Guard Passing|Cool-down|None|None|D|No drillId assigned
+bjj_escapes_beg|Survival & Escapes|Warm-up|None|None|D|No drillId assigned
+bjj_escapes_beg|Survival & Escapes|Mount Escape|grapple_esc_mount|Mount Escape|A|Exact match
+bjj_escapes_beg|Survival & Escapes|Side Control Escape|grapple_esc_side|Side Control Escape|A|Exact match
+bjj_escapes_beg|Survival & Escapes|Back Escape|grapple_esc_back|Back Escape|A|Exact match
+bjj_escapes_beg|Survival & Escapes|Escape Drills|None|None|D|No drillId assigned
+bjj_escapes_beg|Survival & Escapes|Cool-down|None|None|D|No drillId assigned
+bjj_sweeps_int|Guard Sweeps|Warm-up|None|None|D|No drillId assigned
+bjj_sweeps_int|Guard Sweeps|Scissor Sweep|grapple_sweep_scissor|Scissor Sweep|A|Exact match
+bjj_sweeps_int|Guard Sweeps|Flower Sweep|grapple_sweep_flower|Flower Sweep|A|Exact match
+bjj_sweeps_int|Guard Sweeps|Tripod Sweep|grapple_sweep_tripod|Tripod Sweep|A|Exact match
+bjj_sweeps_int|Guard Sweeps|Sweep-to-Top Transition|None|None|D|No drillId assigned
+bjj_sweeps_int|Guard Sweeps|Cool-down|None|None|D|No drillId assigned
+bjj_subs_int|Submission Chains|Warm-up|None|None|D|No drillId assigned
+bjj_subs_int|Submission Chains|Triangle Choke|grapple_sub_triangle|Triangle Choke|A|Exact match
+bjj_subs_int|Submission Chains|Armbar from Guard|None|None|D|No drillId assigned
+bjj_subs_int|Submission Chains|Omoplata|grapple_sub_omoplata|Omoplata|A|Exact match
+bjj_subs_int|Submission Chains|Submission Chains|None|None|D|No drillId assigned
+bjj_subs_int|Submission Chains|Cool-down|None|None|D|No drillId assigned
+bjj_transitions_int|Flow Transitions|Warm-up|None|None|D|No drillId assigned
+bjj_transitions_int|Flow Transitions|Guard to Side|None|None|D|No drillId assigned
+bjj_transitions_int|Flow Transitions|Side to Mount|None|None|D|No drillId assigned
+bjj_transitions_int|Flow Transitions|Mount to Back|grapple_trans_mount_to_back|Mount to Back|A|Exact match
+bjj_transitions_int|Flow Transitions|Transition-to-Submission|None|None|D|No drillId assigned
+bjj_transitions_int|Flow Transitions|Cool-down|None|None|D|No drillId assigned
+bjj_drills_beg|Movement Drills|Warm-up|None|None|D|No drillId assigned
+bjj_drills_beg|Movement Drills|Shrimp Intervals|None|None|D|No drillId assigned
+bjj_drills_beg|Movement Drills|Technical Stand-up Reps|None|None|D|No drillId assigned
+bjj_drills_beg|Movement Drills|Bridging Sets|None|None|D|No drillId assigned
+bjj_drills_beg|Movement Drills|Movement Flow|None|None|D|No drillId assigned
+bjj_drills_beg|Movement Drills|Cool-down|None|None|D|No drillId assigned
+bjj_fundamentals|The Foundation|Warm-up|None|None|D|No drillId assigned
+bjj_fundamentals|The Foundation|Guard Retention|grapple_esc_retention|Guard Retention|A|Exact match
+bjj_fundamentals|The Foundation|Sweep Basics|None|None|D|No drillId assigned
+bjj_fundamentals|The Foundation|Mount Escape|grapple_esc_mount|Mount Escape|A|Exact match
+bjj_fundamentals|The Foundation|Submission Intro|None|None|D|No drillId assigned
+bjj_fundamentals|The Foundation|Flow Drill|None|None|D|No drillId assigned
+bjj_fundamentals|The Foundation|Cool-down|None|None|D|No drillId assigned
+bjj_advanced_flow|Advanced Guard Play|Warm-up|None|None|D|No drillId assigned
+bjj_advanced_flow|Advanced Guard Play|Complex Guard Transitions|None|None|D|No drillId assigned
+bjj_advanced_flow|Advanced Guard Play|Submission Hunting|None|None|D|No drillId assigned
+bjj_advanced_flow|Advanced Guard Play|Position Maintenance|None|None|D|No drillId assigned
+bjj_advanced_flow|Advanced Guard Play|Scenario-based Flow|None|None|D|No drillId assigned
+bjj_advanced_flow|Advanced Guard Play|Cool-down|None|None|D|No drillId assigned
+wrestling_motion_beg|Stance & Motion|Warm-up|None|None|D|No drillId assigned
+wrestling_motion_beg|Stance & Motion|Stance Integrity|stance|Stance|C|Semantic match
+wrestling_motion_beg|Stance & Motion|Linear Motion|None|None|D|No drillId assigned
+wrestling_motion_beg|Stance & Motion|Lateral Motion|None|None|D|No drillId assigned
+wrestling_motion_beg|Stance & Motion|Cool-down|None|None|D|No drillId assigned
+wrestling_levels_beg|Level Changes|Warm-up|None|None|D|No drillId assigned
+wrestling_levels_beg|Level Changes|The Drop|None|None|D|No drillId assigned
+wrestling_levels_beg|Level Changes|Penetration Step|None|None|D|No drillId assigned
+wrestling_levels_beg|Level Changes|Head Positioning|None|None|D|No drillId assigned
+wrestling_levels_beg|Level Changes|Shot-and-Reset|None|None|D|No drillId assigned
+wrestling_levels_beg|Level Changes|Cool-down|None|None|D|No drillId assigned
+wrestling_takedowns_int|Takedown Mechanics|Warm-up|None|None|D|No drillId assigned
+wrestling_takedowns_int|Takedown Mechanics|Double Leg|double_leg_takedown|Double Leg Takedown|C|Semantic match
+wrestling_takedowns_int|Takedown Mechanics|Single Leg|grapple_td_single_leg|Single Leg Takedown|C|Semantic match
+wrestling_takedowns_int|Takedown Mechanics|High-Crotch|None|None|D|No drillId assigned
+wrestling_takedowns_int|Takedown Mechanics|Finish Sequences|None|None|D|No drillId assigned
+wrestling_takedowns_int|Takedown Mechanics|Takedown-to-Control|None|None|D|No drillId assigned
+wrestling_takedowns_int|Takedown Mechanics|Cool-down|None|None|D|No drillId assigned
+wrestling_sprawls_int|Defensive Sprawls|Warm-up|None|None|D|No drillId assigned
+wrestling_sprawls_int|Defensive Sprawls|Basic Sprawl|None|None|D|No drillId assigned
+wrestling_sprawls_int|Defensive Sprawls|Sprawl-to-Crossface|None|None|D|No drillId assigned
+wrestling_sprawls_int|Defensive Sprawls|Sprawl-to-Underhook|None|None|D|No drillId assigned
+wrestling_sprawls_int|Defensive Sprawls|Circle-out Defense|None|None|D|No drillId assigned
+wrestling_sprawls_int|Defensive Sprawls|Sprawl-to-Counter|None|None|D|No drillId assigned
+wrestling_sprawls_int|Defensive Sprawls|Cool-down|None|None|D|No drillId assigned
+wrestling_top_int|Top Control|Warm-up|None|None|D|No drillId assigned
+wrestling_top_int|Top Control|Riding Position|None|None|D|No drillId assigned
+wrestling_top_int|Top Control|Break-downs|None|None|D|No drillId assigned
+wrestling_top_int|Top Control|Pinning Mechanics|None|None|D|No drillId assigned
+wrestling_top_int|Top Control|Weight Distribution|None|None|D|No drillId assigned
+wrestling_top_int|Top Control|Top-to-Pin Sequence|None|None|D|No drillId assigned
+wrestling_top_int|Top Control|Cool-down|None|None|D|No drillId assigned
+wrestling_escapes_int|Escapes & Recovery|Warm-up|None|None|D|No drillId assigned
+wrestling_escapes_int|Escapes & Recovery|The Hip Heist|None|None|D|No drillId assigned
+wrestling_escapes_int|Escapes & Recovery|Sit-out|None|None|D|No drillId assigned
+wrestling_escapes_int|Escapes & Recovery|Stand-up|None|None|D|No drillId assigned
+wrestling_escapes_int|Escapes & Recovery|Bridge-and-Roll|None|None|D|No drillId assigned
+wrestling_escapes_int|Escapes & Recovery|Escape Flow|None|None|D|No drillId assigned
+wrestling_escapes_int|Escapes & Recovery|Cool-down|None|None|D|No drillId assigned
+wrestling_drills_beg|Movement Drills|Warm-up|None|None|D|No drillId assigned
+wrestling_drills_beg|Movement Drills|Shot Intervals|None|None|D|No drillId assigned
+wrestling_drills_beg|Movement Drills|Sprawl Intervals|None|None|D|No drillId assigned
+wrestling_drills_beg|Movement Drills|Movement Flow|None|None|D|No drillId assigned
+wrestling_drills_beg|Movement Drills|Transition Drills|None|None|D|No drillId assigned
+wrestling_drills_beg|Movement Drills|Cool-down|None|None|D|No drillId assigned
+wrestling_cond_beg|Grappling Base|Warm-up|None|None|D|No drillId assigned
+wrestling_cond_beg|Grappling Base|Explosive Bursts|None|None|D|No drillId assigned
+wrestling_cond_beg|Grappling Base|Core Stabilization|None|None|D|No drillId assigned
+wrestling_cond_beg|Grappling Base|Hip Mobility|None|None|D|No drillId assigned
+wrestling_cond_beg|Grappling Base|Endure-and-Hold|None|None|D|No drillId assigned
+wrestling_cond_beg|Grappling Base|Cool-down|None|None|D|No drillId assigned
+wrestling_fund_beg|The Foundation|Warm-up|None|None|D|No drillId assigned
+wrestling_fund_beg|The Foundation|Stance Mastery|None|None|D|No drillId assigned
+wrestling_fund_beg|The Foundation|Level Change Flow|None|None|D|No drillId assigned
+wrestling_fund_beg|The Foundation|Hand-fighting Basics|None|None|D|No drillId assigned
+wrestling_fund_beg|The Foundation|Shot-and-Settle|None|None|D|No drillId assigned
+wrestling_fund_beg|The Foundation|Fundamentals Flow|None|None|D|No drillId assigned
+wrestling_fund_beg|The Foundation|Cool-down|None|None|D|No drillId assigned
+wrestling_adv_drills|Elite Takedowns|Warm-up|None|None|D|No drillId assigned
+wrestling_adv_drills|Elite Takedowns|Chain-Takedowns|None|None|D|No drillId assigned
+wrestling_adv_drills|Elite Takedowns|Anti-Wrestling|None|None|D|No drillId assigned
+wrestling_adv_drills|Elite Takedowns|High-Pressure Rounds|None|None|D|No drillId assigned
+wrestling_adv_drills|Elite Takedowns|Scenario Flow|None|None|D|No drillId assigned
+wrestling_adv_drills|Elite Takedowns|Champ Round|None|None|D|No drillId assigned
+wrestling_adv_drills|Elite Takedowns|Cool-down|None|None|D|No drillId assigned
+strength_circuit|Strength Circuit|Warm Up|None|None|D|No drillId assigned
+strength_circuit|Strength Circuit|Rest|None|None|D|No drillId assigned
+strength_circuit|Strength Circuit|Push-ups|strength_bw_push_ups|Push-Ups|A|Exact match
+strength_circuit|Strength Circuit|Rest|None|None|D|No drillId assigned
+strength_circuit|Strength Circuit|Squats|strength_bw_squats|Squats|A|Exact match
+strength_circuit|Strength Circuit|Rest|None|None|D|No drillId assigned
+strength_circuit|Strength Circuit|Lunges|strength_bw_lunges|Lunges|A|Exact match
+strength_circuit|Strength Circuit|Rest|None|None|D|No drillId assigned
+strength_circuit|Strength Circuit|Plank Hold|None|None|D|No drillId assigned
+strength_circuit|Strength Circuit|Rest|None|None|D|No drillId assigned
+strength_circuit|Strength Circuit|Conditioning Round|None|None|D|No drillId assigned
+strength_circuit|Strength Circuit|Rest|None|None|D|No drillId assigned
+strength_circuit|Strength Circuit|Cool Down|None|None|D|No drillId assigned
+conditioning_session|Conditioning Session|Warm Up|None|None|D|No drillId assigned
+conditioning_session|Conditioning Session|Interval Round 1|None|None|D|No drillId assigned
+conditioning_session|Conditioning Session|Rest|None|None|D|No drillId assigned
+conditioning_session|Conditioning Session|Interval Round 2|None|None|D|No drillId assigned
+conditioning_session|Conditioning Session|Rest|None|None|D|No drillId assigned
+conditioning_session|Conditioning Session|Interval Round 3|None|None|D|No drillId assigned
+conditioning_session|Conditioning Session|Cool Down|None|None|D|No drillId assigned
+kickboxing_foundations|Strike Integration|Warm-up|None|None|D|No drillId assigned
+kickboxing_foundations|Strike Integration|Punch-to-Kick|None|None|D|No drillId assigned
+kickboxing_foundations|Strike Integration|Lead-Kick Entry|None|None|D|No drillId assigned
+kickboxing_foundations|Strike Integration|Combination Flow|None|None|D|No drillId assigned
+kickboxing_foundations|Strike Integration|Cool-down|None|None|D|No drillId assigned
+kickboxing_mechanics|The Snap|Warm-up|None|None|D|No drillId assigned
+kickboxing_mechanics|The Snap|Hip Rotation|None|None|D|No drillId assigned
+kickboxing_mechanics|The Snap|Recoil Training|None|None|D|No drillId assigned
+kickboxing_mechanics|The Snap|Power Intervals|None|None|D|No drillId assigned
+kickboxing_mechanics|The Snap|Cool-down|None|None|D|No drillId assigned
+kickboxing_movement|Range Master|Warm-up|None|None|D|No drillId assigned
+kickboxing_movement|Range Master|Linear Slides|basic_footwork|Basic Footwork|C|Semantic match
+kickboxing_movement|Range Master|Angle Cuts|None|None|D|No drillId assigned
+kickboxing_movement|Range Master|Spacing Drills|None|None|D|No drillId assigned
+kickboxing_movement|Range Master|Cool-down|None|None|D|No drillId assigned
+karate_foundations|Kime & Balance|Warm-up|None|None|D|No drillId assigned
+karate_foundations|Kime & Balance|Zenkutsu-dachi|None|None|D|No drillId assigned
+karate_foundations|Kime & Balance|Linear Strikes|None|None|D|No drillId assigned
+karate_foundations|Kime & Balance|Block-to-Strike|None|None|D|No drillId assigned
+karate_foundations|Kime & Balance|Cool-down|None|None|D|No drillId assigned
+karate_mechanics|The Snap|Warm-up|None|None|D|No drillId assigned
+karate_mechanics|The Snap|Hip Snap|None|None|D|No drillId assigned
+karate_mechanics|The Snap|Tension Control|None|None|D|No drillId assigned
+karate_mechanics|The Snap|Precision Targeting|None|None|D|No drillId assigned
+karate_mechanics|The Snap|Cool-down|None|None|D|No drillId assigned
+karate_movement|Fluid Shifts|Warm-up|None|None|D|No drillId assigned
+karate_movement|Fluid Shifts|Sliding Steps|None|None|D|No drillId assigned
+karate_movement|Fluid Shifts|Directional Pivots|None|None|D|No drillId assigned
+karate_movement|Fluid Shifts|Stance Transitions|None|None|D|No drillId assigned
+karate_movement|Fluid Shifts|Cool-down|None|None|D|No drillId assigned
+judo_foundations|Ukemi & Balance|Warm-up|None|None|D|No drillId assigned
+judo_foundations|Ukemi & Balance|Ushiro-ukemi|None|None|D|No drillId assigned
+judo_foundations|Ukemi & Balance|Yoko-ukemi|None|None|D|No drillId assigned
+judo_foundations|Ukemi & Balance|Shizen-tai|None|None|D|No drillId assigned
+judo_foundations|Ukemi & Balance|Cool-down|None|None|D|No drillId assigned
+judo_mechanics|Kuzushi Flow|Warm-up|None|None|D|No drillId assigned
+judo_mechanics|Kuzushi Flow|Pulling Patterns|None|None|D|No drillId assigned
+judo_mechanics|Kuzushi Flow|Directional Pulls|None|None|D|No drillId assigned
+judo_mechanics|Kuzushi Flow|Entry Timing|None|None|D|No drillId assigned
+judo_mechanics|Kuzushi Flow|Cool-down|None|None|D|No drillId assigned
+judo_movement|Tachi-waza Motion|Warm-up|None|None|D|No drillId assigned
+judo_movement|Tachi-waza Motion|Rotational Steps|None|None|D|No drillId assigned
+judo_movement|Tachi-waza Motion|Circular Motion|None|None|D|No drillId assigned
+judo_movement|Tachi-waza Motion|Entry-to-Reset|None|None|D|No drillId assigned
+judo_movement|Tachi-waza Motion|Cool-down|None|None|D|No drillId assigned
+footwork_foundations|Balance & Glide|Warm-up|None|None|D|No drillId assigned
+footwork_foundations|Balance & Glide|The Invisible Box|None|None|D|No drillId assigned
+footwork_foundations|Balance & Glide|Linear Glide|None|None|D|No drillId assigned
+footwork_foundations|Balance & Glide|Lateral Glide|None|None|D|No drillId assigned
+footwork_foundations|Balance & Glide|Cool-down|None|None|D|No drillId assigned
+footwork_mechanics|Angle Creation|Warm-up|None|None|D|No drillId assigned
+footwork_mechanics|Angle Creation|The 45-Degree Pivot|None|None|D|No drillId assigned
+footwork_mechanics|Angle Creation|L-Step Pattern|None|None|D|No drillId assigned
+footwork_mechanics|Angle Creation|V-Step Pattern|None|None|D|No drillId assigned
+footwork_mechanics|Angle Creation|Cool-down|None|None|D|No drillId assigned
+footwork_movement|Ring Craft|Warm-up|None|None|D|No drillId assigned
+footwork_movement|Ring Craft|Ring Cutting|None|None|D|No drillId assigned
+footwork_movement|Ring Craft|Distance Pulsing|None|None|D|No drillId assigned
+footwork_movement|Ring Craft|Complex Sequences|None|None|D|No drillId assigned
+footwork_movement|Ring Craft|Cool-down|None|None|D|No drillId assigned
+strength_mobility|Warrior Mobility|Warm-up|None|None|D|No drillId assigned
+strength_mobility|Warrior Mobility|Hip Openers|None|None|D|No drillId assigned
+strength_mobility|Warrior Mobility|Thoracic Mobility|None|None|D|No drillId assigned
+strength_mobility|Warrior Mobility|Ankle & Wrist Flow|None|None|D|No drillId assigned
+strength_mobility|Warrior Mobility|Cool-down|None|None|D|No drillId assigned

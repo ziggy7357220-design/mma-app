@@ -1,0 +1,39 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:8765/index.html)",
+      "Bash(python -m http.server 8765)",
+      "Bash(curl -s -o /tmp/index.html -w \"HTTP=%{http_code} SIZE=%{size_download}\\\\n\" http://localhost:8765/index.html)",
+      "Bash(curl -s http://localhost:8765/js/main.js -w \"\\\\nSTATUS=%{http_code}\\\\n\")",
+      "Read(//c/Program Files/Google/Chrome/Application/**)",
+      "Read(//c/Program Files \\\\\\(x86\\\\\\)/Google/Chrome/Application/**)",
+      "Bash(npm install *)",
+      "Bash(node test-journey.js)",
+      "Bash(curl *)",
+      "Bash(node test-flows.js)",
+      "Bash(cd *)",
+      "Bash(flutter --version)",
+      "Bash(unzip -q flutter.zip)",
+      "Bash(./sdkmanager --version)",
+      "Bash(\"C:/Users/ziggy/Android/sdk/cmdline-tools/latest/bin/sdkmanager.bat\" --version)",
+      "Bash(where java *)",
+      "Bash(mkdir -p jdk17)",
+      "Bash(unzip -q jdk.zip -d jdk17)",
+      "Bash(cmd.exe //c \"set JAVA_HOME=C:\\\\Users\\\\ziggy\\\\jdk17\\\\jdk-17.0.2 && set PATH=%JAVA_HOME%\\\\bin;%PATH% && java -version\")",
+      "Bash(\"C:/Users/ziggy/jdk17/jdk-17.0.2/bin/java.exe\" -version)",
+      "Bash(export *)",
+      "Bash(cmd.exe //c 'set JAVA_HOME=C:\\\\Users\\\\ziggy\\\\jdk17\\\\jdk-17.0.2 && C:\\\\Users\\\\ziggy\\\\Android\\\\sdk\\\\cmdline-tools\\\\latest\\\\bin\\\\sdkmanager.bat --licenses')",
+      "Bash(ls \"C:\\\\\\\\Users\\\\\\\\ziggy\\\\\\\\jdk17\\\\\\\\jdk-17.0.2\\\\\\\\bin\\\\\\\\javac.exe\")",
+      "Bash(cmd.exe //c 'set JAVA_HOME=C:/Users/ziggy/jdk17/jdk-17.0.2 && echo %JAVA_HOME% && C:\\\\Users\\\\ziggy\\\\Android\\\\sdk\\\\cmdline-tools\\\\latest\\\\bin\\\\sdkmanager.bat --licenses')",
+      "Bash(cmd.exe //c \"setx JAVA_HOME \\\\\"C:\\\\\\\\Users\\\\\\\\ziggy\\\\\\\\jdk17\\\\\\\\jdk-17.0.2\\\\\" && set JAVA_HOME=C:\\\\\\\\Users\\\\\\\\ziggy\\\\\\\\jdk17\\\\\\\\jdk-17.0.2 && echo JAVA_HOME=%JAVA_HOME% && C:\\\\\\\\Users\\\\\\\\ziggy\\\\\\\\Android\\\\\\\\sdk\\\\\\\\cmdline-tools\\\\\\\\latest\\\\\\\\bin\\\\\\\\sdkmanager.bat --version\" 2>&1 | tail -5)",
+      "Bash(cmd.exe //c \"set JAVA_HOME=C:\\\\\\\\jdk17 && C:\\\\\\\\Users\\\\\\\\ziggy\\\\\\\\Android\\\\\\\\sdk\\\\\\\\cmdline-tools\\\\\\\\latest\\\\\\\\bin\\\\\\\\sdkmanager.bat --version\")",
+      "Bash(cmd.exe //c \"set JAVA_HOME=C:\\\\\\\\jdk17&& echo %JAVA_HOME%&& C:\\\\\\\\Users\\\\\\\\ziggy\\\\\\\\Android\\\\\\\\sdk\\\\\\\\cmdline-tools\\\\\\\\latest\\\\\\\\bin\\\\\\\\sdkmanager.bat --version\" 2>&1 | tail -5)",
+      "Bash(cmd.exe //c 'set JAVA_HOME=C:\\\\jdk17&& C:\\\\Users\\\\ziggy\\\\Android\\\\sdk\\\\cmdline-tools\\\\latest\\\\bin\\\\sdkmanager.bat --licenses')",
+      "Bash(cmd.exe //c \"set JAVA_HOME=C:\\\\\\\\jdk17&& C:\\\\\\\\Users\\\\\\\\ziggy\\\\\\\\Android\\\\\\\\sdk\\\\\\\\cmdline-tools\\\\\\\\latest\\\\\\\\bin\\\\\\\\sdkmanager.bat platform-tools platforms;android-34 build-tools;34.0.0\" 2>&1 | tail -10)",
+      "Bash(cmd.exe //c \"set JAVA_HOME=C:\\\\\\\\jdk17&& C:\\\\\\\\Users\\\\\\\\ziggy\\\\\\\\flutter\\\\\\\\bin\\\\\\\\flutter.bat config --android-sdk C:\\\\\\\\Users\\\\\\\\ziggy\\\\\\\\Android\\\\\\\\sdk\")",
+      "Bash(cmd.exe //c \"set JAVA_HOME=C:\\\\\\\\jdk17&& C:\\\\\\\\Users\\\\\\\\ziggy\\\\\\\\flutter\\\\\\\\bin\\\\\\\\flutter.bat doctor\")",
+      "Bash(cmd.exe //c \"set JAVA_HOME=C:\\\\\\\\jdk17&& set ANDROID_HOME=C:\\\\\\\\Users\\\\\\\\ziggy\\\\\\\\AppData\\\\\\\\Local\\\\\\\\Android\\\\\\\\Sdk&& C:\\\\\\\\Users\\\\\\\\ziggy\\\\\\\\AppData\\\\\\\\Local\\\\\\\\Android\\\\\\\\Sdk\\\\\\\\cmdline-tools\\\\\\\\latest\\\\\\\\bin\\\\\\\\sdkmanager.bat \\\\\"system-images;android-34;google_apis;x86_64\\\\\"\" 2>&1 | tail -20)",
+      "PowerShell(\\(Get-Item \"stance_app\\\\build\\\\app\\\\outputs\\\\flutter-apk\\\\app-release.apk\"\\).Length)"
+    ]
+  }
+}

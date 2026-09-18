@@ -1,0 +1,429 @@
+boxing_footwork_beg|Warm-up||Tier D|Generic utility step
+boxing_footwork_beg|Stance Integrity|stance|Tier C|Semantic mapping
+boxing_footwork_beg|Linear Slides|basic_footwork|Tier C|Semantic mapping
+boxing_footwork_beg|Lateral Slides|basic_footwork|Tier C|Semantic mapping
+boxing_footwork_beg|Cool-down||Tier D|Generic utility step
+boxing_fundamentals|Warm-up||Tier D|Generic utility step
+boxing_fundamentals|Guard Mastery|guard_positioning|Tier C|Semantic mapping
+boxing_fundamentals|The Jab|jab|Tier B|Normalized match
+boxing_fundamentals|The Cross|boxing_cross|Tier B|Normalized match
+boxing_fundamentals|The 1-2 Sequence||Tier D|No confident match
+boxing_fundamentals|Cool-down||Tier D|Generic utility step
+boxing_punches_beg|Warm-up||Tier D|Generic utility step
+boxing_punches_beg|The Recoil||Tier D|No confident match
+boxing_punches_beg|Relaxation/Snap||Tier D|No confident match
+boxing_punches_beg|Speed Control||Tier D|No confident match
+boxing_punches_beg|Cool-down||Tier D|Generic utility step
+boxing_cond_beg|Warm-up||Tier D|Generic utility step
+boxing_cond_beg|Stance Intervals||Tier D|No confident match
+boxing_cond_beg|Rotational Core||Tier D|No confident match
+boxing_cond_beg|Recovery Movement||Tier D|No confident match
+boxing_footwork|Warm-up||Tier D|Generic utility step
+boxing_footwork|Controlled Pivots|footwork_pivot|Tier C|Semantic mapping
+boxing_footwork|L-Step/V-Step|footwork_v_step|Tier C|Semantic mapping
+boxing_footwork|Angle Integration||Tier D|No confident match
+boxing_footwork|Ring Cutting|footwork_ring_cutting|Tier C|Semantic mapping
+boxing_footwork|Cool-down||Tier D|Generic utility step
+boxing_punches_int|Warm-up||Tier D|Generic utility step
+boxing_punches_int|Mechanics||Tier D|No confident match
+boxing_punches_int|Integration||Tier D|No confident match
+boxing_punches_int|Range/Level Changes||Tier D|No confident match
+boxing_punches_int|Controlled Power||Tier D|No confident match
+boxing_punches_int|Cool-down||Tier D|Generic utility step
+boxing_defense|Warm-up||Tier D|Generic utility step
+boxing_defense|The Slip|slip|Tier B|Normalized match
+boxing_defense|The Roll|boxing_roll|Tier B|Normalized match
+boxing_defense|The Parry|boxing_parry|Tier B|Normalized match
+boxing_defense|Defensive-Counter||Tier D|No confident match
+boxing_defense|Cool-down||Tier D|Generic utility step
+boxing_combinations|Warm-up||Tier D|Generic utility step
+boxing_combinations|Long Range||Tier D|No confident match
+boxing_combinations|Mid Range||Tier D|No confident match
+boxing_combinations|Inside Range||Tier D|No confident match
+boxing_combinations|Range Transition||Tier D|No confident match
+boxing_combinations|Cool-down||Tier D|Generic utility step
+boxing_bag_work|Warm-up||Tier D|Generic utility step
+boxing_bag_work|Precision Impact||Tier D|No confident match
+boxing_bag_work|Combination Power||Tier D|No confident match
+boxing_bag_work|High-Output Intervals||Tier D|No confident match
+boxing_bag_work|Cool-down||Tier D|Generic utility step
+boxing_combos_adv|Warm-up||Tier D|Generic utility step
+boxing_combos_adv|Complexity Layering||Tier D|No confident match
+boxing_combos_adv|Defense-Offense Integration||Tier D|No confident match
+boxing_combos_adv|Angle Exits||Tier D|No confident match
+boxing_combos_adv|Conditional Transitions||Tier D|No confident match
+boxing_combos_adv|Cool-down||Tier D|Generic utility step
+boxing_advanced_drills|Warm-up||Tier D|Generic utility step
+boxing_advanced_drills|Scenario A - The Aggressor||Tier D|No confident match
+boxing_advanced_drills|Scenario B - The Counter||Tier D|No confident match
+boxing_advanced_drills|Scenario C - The Infighter||Tier D|No confident match
+boxing_advanced_drills|Conditional Response||Tier D|No confident match
+boxing_advanced_drills|Champ Round||Tier D|No confident match
+boxing_advanced_drills|Cool-down||Tier D|Generic utility step
+mt_fund_beg|Warm-up||Tier D|Generic utility step
+mt_fund_beg|Stance Integrity|stance|Tier C|Semantic mapping
+mt_fund_beg|The Thai March||Tier D|No confident match
+mt_fund_beg|High Guard Maintenance||Tier D|No confident match
+mt_fund_beg|Integrated Motion||Tier D|No confident match
+mt_fund_beg|Cool-down||Tier D|Generic utility step
+mt_footwork_beg|Warm-up||Tier D|Generic utility step
+mt_footwork_beg|Linear Slides|basic_footwork|Tier C|Semantic mapping
+mt_footwork_beg|Basic Pivots|footwork_pivot|Tier C|Semantic mapping
+mt_footwork_beg|Square Motion||Tier D|No confident match
+mt_footwork_beg|Rhythm Hold||Tier D|No confident match
+mt_footwork_beg|Cool-down||Tier D|Generic utility step
+mt_striking_beg|Warm-up||Tier D|Generic utility step
+mt_striking_beg|The 4 Punches||Tier D|No confident match
+mt_striking_beg|The 2 Kicks||Tier D|No confident match
+mt_striking_beg|The 2 Knees||Tier D|No confident match
+mt_striking_beg|The Elbows||Tier D|No confident match
+mt_striking_beg|Cool-down||Tier D|Generic utility step
+mt_kicks_beg|Warm-up||Tier D|Generic utility step
+mt_kicks_beg|Teep Mechanics||Tier D|No confident match
+mt_kicks_beg|The Pivot|footwork_pivot|Tier B|Normalized match
+mt_kicks_beg|Mid-kick Arc||Tier D|No confident match
+mt_kicks_beg|Low-kick Snap||Tier D|No confident match
+mt_kicks_beg|Recovery/Reset||Tier D|No confident match
+mt_kicks_beg|Cool-down||Tier D|Generic utility step
+mt_cond_beg|Warm-up||Tier D|Generic utility step
+mt_cond_beg|Stance Endurance Intervals||Tier D|No confident match
+mt_cond_beg|Rotational Core||Tier D|No confident match
+mt_cond_beg|Hip Mobility||Tier D|No confident match
+mt_cond_beg|Cool-down||Tier D|Generic utility step
+mt_defense_beg|Warm-up||Tier D|Generic utility step
+mt_defense_beg|Guard Positioning|guard_positioning|Tier C|Semantic mapping
+mt_defense_beg|Lead Check||Tier D|No confident match
+mt_defense_beg|Rear Check||Tier D|No confident match
+mt_defense_beg|Punch Parries||Tier D|No confident match
+mt_defense_beg|Recovery/Reset||Tier D|No confident match
+mt_defense_beg|Cool-down||Tier D|Generic utility step
+mt_elbows_int|Warm-up||Tier D|Generic utility step
+mt_elbows_int|Horizontal Elbows||Tier D|No confident match
+mt_elbows_int|Upward Elbows||Tier D|No confident match
+mt_elbows_int|Diagonal Elbows||Tier D|No confident match
+mt_elbows_int|Entry/Exit Drills||Tier D|No confident match
+mt_elbows_int|Recovery/Reset||Tier D|No confident match
+mt_elbows_int|Cool-down||Tier D|Generic utility step
+mt_knees_int|Warm-up||Tier D|Generic utility step
+mt_knees_int|Straight Knee Mechanics||Tier D|No confident match
+mt_knees_int|Curving Knee Mechanics||Tier D|No confident match
+mt_knees_int|Knee-Punch Integration||Tier D|No confident match
+mt_knees_int|Hip-Drive Intervals||Tier D|No confident match
+mt_knees_int|Recovery/Reset||Tier D|No confident match
+mt_knees_int|Cool-down||Tier D|Generic utility step
+mt_striking_int|Warm-up||Tier D|Generic utility step
+mt_striking_int|Punch-to-Kick||Tier D|No confident match
+mt_striking_int|Kick-to-Punch||Tier D|No confident match
+mt_striking_int|Punch-to-Knee||Tier D|No confident match
+mt_striking_int|Full Limb Flow||Tier D|No confident match
+mt_striking_int|Cool-down||Tier D|Generic utility step
+mt_clinch_int|Warm-up||Tier D|Generic utility step
+mt_clinch_int|Plum Posture Hold||Tier D|No confident match
+mt_clinch_int|Neck Control Motion||Tier D|No confident match
+mt_clinch_int|Shoulder-Rolls||Tier D|No confident match
+mt_clinch_int|Clinch-Knee Flow||Tier D|No confident match
+mt_clinch_int|Cool-down||Tier D|Generic utility step
+mt_combos_int|Warm-up||Tier D|Generic utility step
+mt_combos_int|Linear Combinations||Tier D|No confident match
+mt_combos_int|Mixed-Limb Combinations||Tier D|No confident match
+mt_combos_int|Rhythm Switches||Tier D|No confident match
+mt_combos_int|Flow Intervals||Tier D|No confident match
+mt_combos_int|Cool-down||Tier D|Generic utility step
+mt_cond_int|Warm-up||Tier D|Generic utility step
+mt_cond_int|High-Output Bursts||Tier D|No confident match
+mt_cond_int|Active Recovery March||Tier D|No confident match
+mt_cond_int|Rotational Power Core||Tier D|No confident match
+mt_cond_int|Final Endurance Hold||Tier D|No confident match
+mt_cond_int|Cool-down||Tier D|Generic utility step
+mt_def_int|Warm-up||Tier D|Generic utility step
+mt_def_int|Check-to-Kick||Tier D|No confident match
+mt_def_int|Lean-to-Punch||Tier D|No confident match
+mt_def_int|Slip-to-Elbow||Tier D|No confident match
+mt_def_int|Reaction Flow||Tier D|No confident match
+mt_def_int|Cool-down||Tier D|Generic utility step
+mt_combos_adv|Warm-up||Tier D|Generic utility step
+mt_combos_adv|Feint-to-Strike||Tier D|No confident match
+mt_combos_adv|Distance-Shift Flow||Tier D|No confident match
+mt_combos_adv|High-Complexity Chains||Tier D|No confident match
+mt_combos_adv|Conditional Response||Tier D|No confident match
+mt_combos_adv|Cool-down||Tier D|Generic utility step
+mt_movement_int|Warm-up||Tier D|Generic utility step
+mt_movement_int|L/V Step Drills||Tier D|No confident match
+mt_movement_int|Pivot-to-Strike||Tier D|No confident match
+mt_movement_int|Ring Cutting Motion|footwork_ring_cutting|Tier C|Semantic mapping
+mt_movement_int|Movement-Sprints||Tier D|No confident match
+mt_movement_int|Cool-down||Tier D|Generic utility step
+mt_adv_drills|Warm-up||Tier D|Generic utility step
+mt_adv_drills|Scenario A: The Aggressor||Tier D|No confident match
+mt_adv_drills|Scenario B: The Out-fighter||Tier D|No confident match
+mt_adv_drills|Scenario C: The Clincher||Tier D|No confident match
+mt_adv_drills|Conditional Reaction||Tier D|No confident match
+mt_adv_drills|Champ Round||Tier D|No confident match
+mt_adv_drills|Cool-down||Tier D|Generic utility step
+tkd_footwork_beg|Warm-up||Tier D|Generic utility step
+tkd_footwork_beg|Stance Integrity|stance|Tier C|Semantic mapping
+tkd_footwork_beg|Linear Slides|basic_footwork|Tier C|Semantic mapping
+tkd_footwork_beg|Pivot Basics||Tier D|No confident match
+tkd_footwork_beg|Rhythm Drills||Tier D|No confident match
+tkd_footwork_beg|Cool-down||Tier D|Generic utility step
+tkd_kicking_beg|Warm-up||Tier D|Generic utility step
+tkd_kicking_beg|Front Snap Kick|front_kick|Tier C|Semantic mapping
+tkd_kicking_beg|Roundhouse Basics||Tier D|No confident match
+tkd_kicking_beg|Side Kick Basics|kicks_side|Tier C|Semantic mapping
+tkd_kicking_beg|Kicking Drills||Tier D|No confident match
+tkd_kicking_beg|Recovery/Reset||Tier D|No confident match
+tkd_kicking_beg|Cool-down||Tier D|Generic utility step
+tkd_blocks_beg|Warm-up||Tier D|Generic utility step
+tkd_blocks_beg|Low Block||Tier D|No confident match
+tkd_blocks_beg|High Block||Tier D|No confident match
+tkd_blocks_beg|Inner Block||Tier D|No confident match
+tkd_blocks_beg|Block-to-Stance Flow||Tier D|No confident match
+tkd_blocks_beg|Cool-down||Tier D|Generic utility step
+tkd_fund_beg|Warm-up||Tier D|Generic utility step
+tkd_fund_beg|Stance Mastery||Tier D|No confident match
+tkd_fund_beg|Basic Punching||Tier D|No confident match
+tkd_fund_beg|Integrated Motion||Tier D|No confident match
+tkd_fund_beg|Core Stability||Tier D|No confident match
+tkd_fund_beg|Cool-down||Tier D|Generic utility step
+tkd_kicking_int|Warm-up||Tier D|Generic utility step
+tkd_kicking_int|Double Kicks||Tier D|No confident match
+tkd_kicking_int|Spinning Hook Kick|kicks_hook|Tier C|Semantic mapping
+tkd_kicking_int|Tornado Kick|kicks_tornado|Tier A|Exact match
+tkd_kicking_int|Precision Drills||Tier D|No confident match
+tkd_kicking_int|Recovery Flow||Tier D|No confident match
+tkd_kicking_int|Cool-down||Tier D|Generic utility step
+tkd_combos_int|Warm-up||Tier D|Generic utility step
+tkd_combos_int|Punch-Kick Flow||Tier D|No confident match
+tkd_combos_int|Double Kick Flow||Tier D|No confident match
+tkd_combos_int|Defense-Counter||Tier D|No confident match
+tkd_combos_int|Combo Intervals||Tier D|No confident match
+tkd_combos_int|Reset & Recover||Tier D|No confident match
+tkd_combos_int|Cool-down||Tier D|Generic utility step
+tkd_movement_int|Warm-up||Tier D|Generic utility step
+tkd_movement_int|Sliding Steps||Tier D|No confident match
+tkd_movement_int|Pivot-Turn||Tier D|No confident match
+tkd_movement_int|Combat Bouncing||Tier D|No confident match
+tkd_movement_int|Distance Drills||Tier D|No confident match
+tkd_movement_int|Cool-down||Tier D|Generic utility step
+tkd_mobility_beg|Dynamic Warm-up||Tier D|No confident match
+tkd_mobility_beg|Leg Swings||Tier D|No confident match
+tkd_mobility_beg|Hip Openers||Tier D|No confident match
+tkd_mobility_beg|Static Stretching||Tier D|No confident match
+tkd_mobility_beg|Cool-down||Tier D|Generic utility step
+tkd_advanced_flow|Warm-up||Tier D|Generic utility step
+tkd_advanced_flow|Multi-Kick Sequences||Tier D|No confident match
+tkd_advanced_flow|Precision Targets||Tier D|No confident match
+tkd_advanced_flow|Speed Drills||Tier D|No confident match
+tkd_advanced_flow|Flow Scenarios||Tier D|No confident match
+tkd_advanced_flow|Cool-down||Tier D|Generic utility step
+bjj_fund_beg|Warm-up||Tier D|Generic utility step
+bjj_fund_beg|Shrimp Sets||Tier D|No confident match
+bjj_fund_beg|Bridging||Tier D|No confident match
+bjj_fund_beg|Technical Stand-up||Tier D|No confident match
+bjj_fund_beg|Core Stability||Tier D|No confident match
+bjj_fund_beg|Cool-down||Tier D|Generic utility step
+bjj_guard_beg|Warm-up||Tier D|Generic utility step
+bjj_guard_beg|Guard Posture||Tier D|No confident match
+bjj_guard_beg|Open Guard Transitions||Tier D|No confident match
+bjj_guard_beg|Closed Guard Maintenance|closed_guard|Tier C|Semantic mapping
+bjj_guard_beg|Guard Recovery|grapple_trans_turtle_to_guard|Tier C|Semantic mapping
+bjj_guard_beg|Cool-down||Tier D|Generic utility step
+bjj_passing_int|Warm-up||Tier D|Generic utility step
+bjj_passing_int|Toreando Pass|grapple_pass_toreando|Tier A|Exact match
+bjj_passing_int|Pressure Pass||Tier D|No confident match
+bjj_passing_int|Pass-to-Mount||Tier D|No confident match
+bjj_passing_int|Guard Recovery Counter|grapple_trans_turtle_to_guard|Tier C|Semantic mapping
+bjj_passing_int|Cool-down||Tier D|Generic utility step
+bjj_escapes_beg|Warm-up||Tier D|Generic utility step
+bjj_escapes_beg|Mount Escape|grapple_esc_mount|Tier A|Exact match
+bjj_escapes_beg|Side Control Escape|grapple_esc_side|Tier A|Exact match
+bjj_escapes_beg|Back Escape|grapple_esc_back|Tier A|Exact match
+bjj_escapes_beg|Escape Drills||Tier D|No confident match
+bjj_escapes_beg|Cool-down||Tier D|Generic utility step
+bjj_sweeps_int|Warm-up||Tier D|Generic utility step
+bjj_sweeps_int|Scissor Sweep|grapple_sweep_scissor|Tier A|Exact match
+bjj_sweeps_int|Flower Sweep|grapple_sweep_flower|Tier A|Exact match
+bjj_sweeps_int|Tripod Sweep|grapple_sweep_tripod|Tier A|Exact match
+bjj_sweeps_int|Sweep-to-Top Transition||Tier D|No confident match
+bjj_sweeps_int|Cool-down||Tier D|Generic utility step
+bjj_subs_int|Warm-up||Tier D|Generic utility step
+bjj_subs_int|Triangle Choke|grapple_sub_triangle|Tier A|Exact match
+bjj_subs_int|Armbar from Guard||Tier D|No confident match
+bjj_subs_int|Omoplata|grapple_sub_omoplata|Tier A|Exact match
+bjj_subs_int|Submission Chains||Tier D|No confident match
+bjj_subs_int|Cool-down||Tier D|Generic utility step
+bjj_transitions_int|Warm-up||Tier D|Generic utility step
+bjj_transitions_int|Guard to Side||Tier D|No confident match
+bjj_transitions_int|Side to Mount||Tier D|No confident match
+bjj_transitions_int|Mount to Back|grapple_trans_mount_to_back|Tier A|Exact match
+bjj_transitions_int|Transition-to-Submission||Tier D|No confident match
+bjj_transitions_int|Cool-down||Tier D|Generic utility step
+bjj_drills_beg|Warm-up||Tier D|Generic utility step
+bjj_drills_beg|Shrimp Intervals||Tier D|No confident match
+bjj_drills_beg|Technical Stand-up Reps||Tier D|No confident match
+bjj_drills_beg|Bridging Sets||Tier D|No confident match
+bjj_drills_beg|Movement Flow||Tier D|No confident match
+bjj_drills_beg|Cool-down||Tier D|Generic utility step
+bjj_fundamentals|Warm-up||Tier D|Generic utility step
+bjj_fundamentals|Guard Retention|grapple_esc_retention|Tier A|Exact match
+bjj_fundamentals|Sweep Basics||Tier D|No confident match
+bjj_fundamentals|Mount Escape|grapple_esc_mount|Tier A|Exact match
+bjj_fundamentals|Submission Intro||Tier D|No confident match
+bjj_fundamentals|Flow Drill||Tier D|No confident match
+bjj_fundamentals|Cool-down||Tier D|Generic utility step
+bjj_advanced_flow|Warm-up||Tier D|Generic utility step
+bjj_advanced_flow|Complex Guard Transitions||Tier D|No confident match
+bjj_advanced_flow|Submission Hunting||Tier D|No confident match
+bjj_advanced_flow|Position Maintenance||Tier D|No confident match
+bjj_advanced_flow|Scenario-based Flow||Tier D|No confident match
+bjj_advanced_flow|Cool-down||Tier D|Generic utility step
+wrestling_motion_beg|Warm-up||Tier D|Generic utility step
+wrestling_motion_beg|Stance Integrity|stance|Tier C|Semantic mapping
+wrestling_motion_beg|Linear Motion||Tier D|No confident match
+wrestling_motion_beg|Lateral Motion||Tier D|No confident match
+wrestling_motion_beg|Cool-down||Tier D|Generic utility step
+wrestling_levels_beg|Warm-up||Tier D|Generic utility step
+wrestling_levels_beg|The Drop||Tier D|No confident match
+wrestling_levels_beg|Penetration Step||Tier D|No confident match
+wrestling_levels_beg|Head Positioning||Tier D|No confident match
+wrestling_levels_beg|Shot-and-Reset||Tier D|No confident match
+wrestling_levels_beg|Cool-down||Tier D|Generic utility step
+wrestling_takedowns_int|Warm-up||Tier D|Generic utility step
+wrestling_takedowns_int|Double Leg|double_leg_takedown|Tier C|Semantic mapping
+wrestling_takedowns_int|Single Leg|grapple_td_single_leg|Tier C|Semantic mapping
+wrestling_takedowns_int|High-Crotch||Tier D|No confident match
+wrestling_takedowns_int|Finish Sequences||Tier D|No confident match
+wrestling_takedowns_int|Takedown-to-Control||Tier D|No confident match
+wrestling_takedowns_int|Cool-down||Tier D|Generic utility step
+wrestling_sprawls_int|Warm-up||Tier D|Generic utility step
+wrestling_sprawls_int|Basic Sprawl||Tier D|No confident match
+wrestling_sprawls_int|Sprawl-to-Crossface||Tier D|No confident match
+wrestling_sprawls_int|Sprawl-to-Underhook||Tier D|No confident match
+wrestling_sprawls_int|Circle-out Defense||Tier D|No confident match
+wrestling_sprawls_int|Sprawl-to-Counter||Tier D|No confident match
+wrestling_sprawls_int|Cool-down||Tier D|Generic utility step
+wrestling_top_int|Warm-up||Tier D|Generic utility step
+wrestling_top_int|Riding Position||Tier D|No confident match
+wrestling_top_int|Break-downs||Tier D|No confident match
+wrestling_top_int|Pinning Mechanics||Tier D|No confident match
+wrestling_top_int|Weight Distribution||Tier D|No confident match
+wrestling_top_int|Top-to-Pin Sequence||Tier D|No confident match
+wrestling_top_int|Cool-down||Tier D|Generic utility step
+wrestling_escapes_int|Warm-up||Tier D|Generic utility step
+wrestling_escapes_int|The Hip Heist||Tier D|No confident match
+wrestling_escapes_int|Sit-out||Tier D|No confident match
+wrestling_escapes_int|Stand-up||Tier D|No confident match
+wrestling_escapes_int|Bridge-and-Roll||Tier D|No confident match
+wrestling_escapes_int|Escape Flow||Tier D|No confident match
+wrestling_escapes_int|Cool-down||Tier D|Generic utility step
+wrestling_drills_beg|Warm-up||Tier D|Generic utility step
+wrestling_drills_beg|Shot Intervals||Tier D|No confident match
+wrestling_drills_beg|Sprawl Intervals||Tier D|No confident match
+wrestling_drills_beg|Movement Flow||Tier D|No confident match
+wrestling_drills_beg|Transition Drills||Tier D|No confident match
+wrestling_drills_beg|Cool-down||Tier D|Generic utility step
+wrestling_cond_beg|Warm-up||Tier D|Generic utility step
+wrestling_cond_beg|Explosive Bursts||Tier D|No confident match
+wrestling_cond_beg|Core Stabilization||Tier D|No confident match
+wrestling_cond_beg|Hip Mobility||Tier D|No confident match
+wrestling_cond_beg|Endure-and-Hold||Tier D|No confident match
+wrestling_cond_beg|Cool-down||Tier D|Generic utility step
+wrestling_fund_beg|Warm-up||Tier D|Generic utility step
+wrestling_fund_beg|Stance Mastery||Tier D|No confident match
+wrestling_fund_beg|Level Change Flow||Tier D|No confident match
+wrestling_fund_beg|Hand-fighting Basics||Tier D|No confident match
+wrestling_fund_beg|Shot-and-Settle||Tier D|No confident match
+wrestling_fund_beg|Fundamentals Flow||Tier D|No confident match
+wrestling_fund_beg|Cool-down||Tier D|Generic utility step
+wrestling_adv_drills|Warm-up||Tier D|Generic utility step
+wrestling_adv_drills|Chain-Takedowns||Tier D|No confident match
+wrestling_adv_drills|Anti-Wrestling||Tier D|No confident match
+wrestling_adv_drills|High-Pressure Rounds||Tier D|No confident match
+wrestling_adv_drills|Scenario Flow||Tier D|No confident match
+wrestling_adv_drills|Champ Round||Tier D|No confident match
+wrestling_adv_drills|Cool-down||Tier D|Generic utility step
+strength_circuit|Warm Up||Tier D|Generic utility step
+strength_circuit|Rest||Tier D|Generic utility step
+strength_circuit|Push-ups|strength_bw_push_ups|Tier A|Exact match
+strength_circuit|Rest||Tier D|Generic utility step
+strength_circuit|Squats|strength_bw_squats|Tier A|Exact match
+strength_circuit|Rest||Tier D|Generic utility step
+strength_circuit|Lunges|strength_bw_lunges|Tier A|Exact match
+strength_circuit|Rest||Tier D|Generic utility step
+strength_circuit|Plank Hold||Tier D|No confident match
+strength_circuit|Rest||Tier D|Generic utility step
+strength_circuit|Conditioning Round||Tier D|No confident match
+strength_circuit|Rest||Tier D|Generic utility step
+strength_circuit|Cool Down||Tier D|Generic utility step
+conditioning_session|Warm Up||Tier D|Generic utility step
+conditioning_session|Interval Round 1||Tier D|No confident match
+conditioning_session|Rest||Tier D|Generic utility step
+conditioning_session|Interval Round 2||Tier D|No confident match
+conditioning_session|Rest||Tier D|Generic utility step
+conditioning_session|Interval Round 3||Tier D|No confident match
+conditioning_session|Cool Down||Tier D|Generic utility step
+kickboxing_foundations|Warm-up||Tier D|Generic utility step
+kickboxing_foundations|Punch-to-Kick||Tier D|No confident match
+kickboxing_foundations|Lead-Kick Entry||Tier D|No confident match
+kickboxing_foundations|Combination Flow||Tier D|No confident match
+kickboxing_foundations|Cool-down||Tier D|Generic utility step
+kickboxing_mechanics|Warm-up||Tier D|Generic utility step
+kickboxing_mechanics|Hip Rotation||Tier D|No confident match
+kickboxing_mechanics|Recoil Training||Tier D|No confident match
+kickboxing_mechanics|Power Intervals||Tier D|No confident match
+kickboxing_mechanics|Cool-down||Tier D|Generic utility step
+kickboxing_movement|Warm-up||Tier D|Generic utility step
+kickboxing_movement|Linear Slides|basic_footwork|Tier C|Semantic mapping
+kickboxing_movement|Angle Cuts||Tier D|No confident match
+kickboxing_movement|Spacing Drills||Tier D|No confident match
+kickboxing_movement|Cool-down||Tier D|Generic utility step
+karate_foundations|Warm-up||Tier D|Generic utility step
+karate_foundations|Zenkutsu-dachi||Tier D|No confident match
+karate_foundations|Linear Strikes||Tier D|No confident match
+karate_foundations|Block-to-Strike||Tier D|No confident match
+karate_foundations|Cool-down||Tier D|Generic utility step
+karate_mechanics|Warm-up||Tier D|Generic utility step
+karate_mechanics|Hip Snap||Tier D|No confident match
+karate_mechanics|Tension Control||Tier D|No confident match
+karate_mechanics|Precision Targeting||Tier D|No confident match
+karate_mechanics|Cool-down||Tier D|Generic utility step
+karate_movement|Warm-up||Tier D|Generic utility step
+karate_movement|Sliding Steps||Tier D|No confident match
+karate_movement|Directional Pivots||Tier D|No confident match
+karate_movement|Stance Transitions||Tier D|No confident match
+karate_movement|Cool-down||Tier D|Generic utility step
+judo_foundations|Warm-up||Tier D|Generic utility step
+judo_foundations|Ushiro-ukemi||Tier D|No confident match
+judo_foundations|Yoko-ukemi||Tier D|No confident match
+judo_foundations|Shizen-tai||Tier D|No confident match
+judo_foundations|Cool-down||Tier D|Generic utility step
+judo_mechanics|Warm-up||Tier D|Generic utility step
+judo_mechanics|Pulling Patterns||Tier D|No confident match
+judo_mechanics|Directional Pulls||Tier D|No confident match
+judo_mechanics|Entry Timing||Tier D|No confident match
+judo_mechanics|Cool-down||Tier D|Generic utility step
+judo_movement|Warm-up||Tier D|Generic utility step
+judo_movement|Rotational Steps||Tier D|No confident match
+judo_movement|Circular Motion||Tier D|No confident match
+judo_movement|Entry-to-Reset||Tier D|No confident match
+judo_movement|Cool-down||Tier D|Generic utility step
+footwork_foundations|Warm-up||Tier D|Generic utility step
+footwork_foundations|The Invisible Box||Tier D|No confident match
+footwork_foundations|Linear Glide||Tier D|No confident match
+footwork_foundations|Lateral Glide||Tier D|No confident match
+footwork_foundations|Cool-down||Tier D|Generic utility step
+footwork_mechanics|Warm-up||Tier D|Generic utility step
+footwork_mechanics|The 45-Degree Pivot||Tier D|No confident match
+footwork_mechanics|L-Step Pattern||Tier D|No confident match
+footwork_mechanics|V-Step Pattern||Tier D|No confident match
+footwork_mechanics|Cool-down||Tier D|Generic utility step
+footwork_movement|Warm-up||Tier D|Generic utility step
+footwork_movement|Ring Cutting|footwork_ring_cutting|Tier C|Semantic mapping
+footwork_movement|Distance Pulsing||Tier D|No confident match
+footwork_movement|Complex Sequences||Tier D|No confident match
+footwork_movement|Cool-down||Tier D|Generic utility step
+strength_mobility|Warm-up||Tier D|Generic utility step
+strength_mobility|Hip Openers||Tier D|No confident match
+strength_mobility|Thoracic Mobility||Tier D|No confident match
+strength_mobility|Ankle & Wrist Flow||Tier D|No confident match
+strength_mobility|Cool-down||Tier D|Generic utility step

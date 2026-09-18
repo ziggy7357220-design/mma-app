@@ -1,0 +1,607 @@
+Dumbbell Pullover|strength_db_pullover
+Dumbbell Single Arm Reverse Fly|strength_db_reverse_fly
+Dumbbell Split Squat|strength_db_split_squat
+Dumbbell Step-Up Onto Chair|strength_db_step_up
+Dumbbell Bulgarian Split Squat|strength_db_bulgarian_split_squat
+Dumbbell Hip Hinge|strength_db_hip_hinge
+Dumbbell Upright Row|strength_db_upright_row
+Dumbbell Side Boat Hold|strength_db_side_boat_hold
+Dumbbell Triceps Extension|strength_db_triceps_extension
+Dumbbell Side Lateral Raise|strength_db_side_lateral_raise
+Dumbbell Front Raise|strength_db_front_raise
+Dumbbell Chest Fly|strength_db_chest_fly
+Dumbbell Curtsy Lunges|strength_db_curtsy_lunges
+Dumbbell Squats|strength_db_squats
+Dumbbell Side Lunges|strength_db_side_lunges
+Dumbbell Squat Clean and Press|strength_db_squat_clean_press
+Dumbbell Right Arm Triceps Kickback|strength_db_triceps_kickback
+Dumbbell Bicep Curl to Press|strength_db_bicep_curl_press
+Dumbbell Single Arm Otis Up|strength_db_single_arm_otis_up
+Dumbbell Fly to Close Grip Press|strength_db_fly_close_grip_press
+Dumbbell Boat Hold|strength_db_boat_hold
+Dumbbell Reverse Curl|strength_db_reverse_curl
+Dumbbell Lying Triceps Extension|strength_db_lying_triceps_ext
+Dumbbell Wide Bicep Curls|strength_db_wide_bicep_curls
+Dumbbell Punch|strength_db_punch
+Dumbbell Cuban Rotation|strength_db_cuban_rotation
+Dumbbell Shrug|strength_db_shrug
+Dumbbell Rear Delt Row|strength_db_rear_delt_row
+Dumbbell Reverse Crunches|strength_db_reverse_crunches
+Dumbbell Toe-Touch Crunch|strength_db_toe_touch_crunch
+Dumbbell Seated In & Outs|strength_db_seated_in_outs
+Dumbbell Drag Curls|strength_db_drag_curls
+Dumbbell Paddle Boats|strength_db_paddle_boats
+Dumbbell V-Up|strength_db_v_up
+Dumbbell Up-N-Overs|strength_db_up_n_overs
+Dumbbell Crunches|strength_db_crunches
+Dumbbell Standing Hip Abduction|strength_db_standing_hip_abd
+Dumbbell Russian Twist|strength_db_russian_twist
+Dumbbell Crunch and Punches|strength_db_crunch_punches
+Dumbbell Plank Rotation|strength_db_plank_rotation
+Dumbbell Torture Tucks|strength_db_torture_tucks
+Dumbbell Bent Leg Twist|strength_db_bent_leg_twist
+Dumbbell Bicycle Passes|strength_db_bicycle_passes
+Dumbbell Butt Bridge|strength_db_butt_bridge
+Dumbbell Donkey Kicks|strength_db_donkey_kicks
+Dumbbell Fire Hydrant|strength_db_fire_hydrant
+Dumbbell Hamstring Curl|strength_db_hamstring_curl
+Dumbbell Single Leg Deadlift|strength_db_single_leg_dl
+Dumbbell Close Grip Bench Press|strength_db_close_grip_bench
+Dumbbell Backward Lunge|strength_db_backward_lunge
+Dumbbell Swing|strength_db_swing
+Dumbbell Hip Thrust|strength_db_hip_thrust
+Dumbbell Single Leg Hip Thrust|strength_db_single_leg_hip_thrust
+Dumbbell Jumping Lunge|strength_db_jumping_lunge
+Dumbbell Hip Bridge & Leg Lift|strength_db_hip_bridge_leg_lift
+Dumbbell Woodchop|strength_db_woodchop
+Dumbbell Jumping Squat|strength_db_jumping_squat
+Dumbbell Plie Squats|strength_db_plie_squats
+Dumbbell Decline Floor Press|strength_db_decline_floor_press
+Dumbbell Kickbacks|strength_db_kickbacks
+Cross Body Hammer Curl|strength_db_cross_hammer_curl
+Alternate Hammer Curl|strength_db_alt_hammer_curl
+Bent Over Row|strength_db_bent_over_row
+Standing Dumbbell Curl|strength_db_standing_curl
+Standing Dumbbell Chest Fly|strength_db_standing_fly
+Leaning Dumbbell One Leg Calf Raise|strength_db_leaning_calf_raise
+Valley Press|strength_bw_valley_press
+Wall Push-Ups|strength_bw_wall_push_ups
+Wide Arm Push-Ups|strength_bw_wide_push_ups
+Wall Sit|strength_bw_wall_sit
+Wall Calf Raises|strength_bw_wall_calf_raises
+Supine Push-Up|strength_bw_supine_push_up
+Staggered Push-Ups|strength_bw_staggered_push_ups
+Side Hop|strength_bw_side_hop
+Side Arm Raise|strength_bw_side_arm_raise
+Standing Bicycle Crunches|strength_bw_standing_bicycle
+Sit-Ups|strength_bw_sit_ups
+Squats|strength_bw_squats
+Side Plank|strength_bw_side_plank
+Push-Up Row|strength_bw_push_up_row
+Plank Jacks|strength_bw_plank_jacks
+Prone Flutter Kicks|strength_bw_prone_flutter
+Quick Feet|strength_bw_quick_feet
+Reverse Crunches|strength_bw_reverse_crunches
+Russian Twist|strength_bw_russian_twist
+Reverse Flutter Kicks|strength_bw_reverse_flutter
+Reverse Push-Ups|strength_bw_reverse_push_ups
+Reclined Oblique Twist|strength_bw_reclined_twist
+Offset Push-Ups|strength_bw_offset_push_ups
+Plank|strength_bw_plank
+Push-Ups|strength_bw_push_ups
+Push-Up & Rotation|strength_bw_push_up_rotation
+Prone Triceps Push-Ups|strength_bw_prone_triceps_push
+Pike Push-Ups|strength_bw_pike_push_ups
+Mountain Climber|strength_bw_mountain_climber
+Modified Push-Up Low Hold|strength_bw_modified_push_up_hold
+Military Push-Ups|strength_bw_military_push_ups
+Modified Burpees|strength_bw_modified_burpees
+Leg Raises|strength_bw_leg_raises
+Lunges|strength_bw_lunges
+Jumping Jacks|strength_bw_jumping_jacks
+Jumping Squats|strength_bw_jumping_squats
+Knee Push-Ups|strength_bw_knee_push_ups
+Knee to Chest Stretch|strength_bw_knee_chest_stretch
+Knee to Elbow Crunches|strength_bw_knee_elbow_crunches
+High Stepping|strength_bw_high_stepping
+Hindu Push-Ups|strength_bw_hindu_push_ups
+Heel Touch|strength_bw_heel_touch
+Hyperextension|strength_bw_hyperextension
+Hover Push-Up|strength_bw_hover_push_up
+Hip Hinge|strength_bw_hip_hinge
+Incline Push-Ups|strength_bw_incline_push_ups
+Inchworms|strength_bw_inchworms
+Floor Y Raises|strength_bw_floor_y_raises
+Frog Press|strength_bw_frog_press
+Glute Kick Back|strength_bw_glute_kick_back
+Floor Tricep Dips|strength_bw_floor_tricep_dips
+Flutter Kicks|strength_bw_flutter_kicks
+Forward Bend|strength_bw_forward_bend
+Butt Kicks|strength_bw_butt_kicks
+Bench Glute Kick Back|strength_bw_bench_glute_kick
+Back Bow Pulls|strength_bw_back_bow_pulls
+Chest Press Pulse|strength_bw_chest_press_pulse
+Crossover Crunch|strength_bw_crossover_crunch
+Cross Touch and Reach|strength_bw_cross_touch_reach
+Cat Cow Pose|strength_bw_cat_cow
+Diagonal Plank|strength_bw_diagonal_plank
+Dynamic Chest|strength_bw_dynamic_chest
+Calf Raise with Splayed Foot|strength_bw_calf_raise_splayed
+Claps Over Head|strength_bw_claps_overhead
+Diamond Push-Ups|strength_bw_diamond_push_ups
+Decline Push-Ups|strength_bw_decline_push_ups
+Burpees|strength_bw_burpees
+Box Push-Ups|strength_bw_box_push_ups
+Bottom Leg Lift|strength_bw_bottom_leg_lift
+Abdominal Crunches|strength_bw_abs_crunches
+Arm Swings with Lateral Steps|strength_bw_arm_swings_lat
+Arm Scissors|strength_bw_arm_scissors
+Alternating Hooks|strength_bw_alt_hooks
+Alternating Renegade Row|strength_bw_alt_renegade_row
+Side Bridges|strength_bw_side_bridges
+Side-Lying Leg Lift|strength_bw_side_lying_lift
+Side Leg Circles|strength_bw_side_leg_circles
+Standing Glute Kickbacks|strength_bw_standing_glute_kick
+Side Bend|strength_bw_side_bend
+Sumo Squat|strength_bw_sumo_squat
+Single Leg Calf Hop|strength_bw_single_leg_hop
+Sumo Squat Calf Raises with Wall|strength_bw_sumo_calf_raises
+Arm Behind Head|mobility_arm_behind_head
+Arm Cross Front|mobility_arm_cross_front
+Arm Flutters|mobility_arm_flutters
+Arm Rotation Both|mobility_arm_rot_both
+Arm Rotation Left|mobility_arm_rot_left
+Arm Rotation Right|mobility_arm_rot_right
+Head Roll|mobility_head_roll
+Heel Lifts|mobility_heel_lifts
+Hip Circles|mobility_hip_circles
+Knee Circles|mobility_knee_circles
+One Leg Balance|mobility_one_leg_bal
+Reach High, Touch Ground|mobility_reach_touch
+Running Arm Rotation|mobility_run_arm_rot
+Say No|mobility_say_no
+Say Yes|mobility_say_yes
+Shoulder Shrugs|mobility_shoulder_shrug
+Small Arm Rotations|mobility_small_arm_rot
+Torso Twist|mobility_torso_twist
+Yoga Lunge|mobility_yoga_lunge
+Make a Line|mobility_make_a_line
+Off Step|mobility_off_step
+Raised Heels|mobility_raised_heels
+Raised Knees|mobility_raised_knees
+Scissors|mobility_scissors
+Side Straddle|mobility_side_straddle
+Side Swings|mobility_side_swings
+Single Hand Side Swings|mobility_single_hand_swings
+Skier|mobility_skier
+Sprint in Place|mobility_sprint_in_place
+Swing Kick|mobility_swing_kick
+Toe Taps|mobility_toe_taps
+Twister|mobility_twister
+Forward Straddle|mobility_fwd_straddle
+Heel Taps|mobility_heel_taps
+Heel Toe|mobility_heel_toe
+Isolated Jumps|mobility_isolated_jumps
+Jog in Place|mobility_jog_in_place
+Make a Big Circle|mobility_big_circle
+Make a Circle|mobility_small_circle
+Split Forward Stretch|mobility_fwd_split_stretch
+Split|mobility_full_split
+Split Elbows on Ground|mobility_split_elbows_ground
+Split - Both Sides|mobility_split_both_sides
+Butterfly Stretch|mobility_butterfly_stretch
+Spinal Twist|mobility_spinal_twist
+Supine Spinal Twist|mobility_supine_twist
+Standing Forward Bend|mobility_std_fwd_bend
+Shoulder Stretch|mobility_shoulder_stretch
+Front Split|mobility_front_split
+Lunge Hamstring Stretch|mobility_lunge_hamstring
+Frog Stretch|mobility_frog_stretch
+Deep Squat Stretch|mobility_deep_squat_stretch
+Cossack Squat Stretch|mobility_cossack_stretch
+Pigeon Stretch|mobility_pigeon_stretch
+Touch the Floor|mobility_touch_floor
+Split Alternating Hands|mobility_split_alt_hands
+Psoas Stretch|mobility_psoas_stretch
+Standing Hamstring Stretch|mobility_std_hamstring
+Adductor Stretch|mobility_adductor_stretch
+Seated Hip Stretch|mobility_seated_hip_stretch
+Hip Flexor Stretch|mobility_hip_flexor_stretch
+Hamstring Crouch|mobility_hamstring_crouch
+Hamstring Both Legs|mobility_hamstring_both
+Standing Hip Twist|mobility_std_hip_twist
+Standing Split|mobility_std_split
+Standing Split Arms to Leg|mobility_std_split_arm_leg
+Standing Split Alternate Arms to Leg|mobility_std_split_alt_arm
+Standing Split Arms to Floor|mobility_std_split_arm_floor
+Standing Split Elbows on Floor|mobility_std_split_elbow_floor
+Standing Split Toes Pointing Up|mobility_std_split_toes_up
+Butterfly with Hands|mobility_butterfly_hands
+Hamstring Alternating Hands|mobility_hamstring_alt_hands
+Seated Side Bend|mobility_seated_side_bend
+Lying Butterfly Stretch|mobility_lying_butterfly
+Lying Twist Stretch|mobility_lying_twist
+Side-Lying Floor Stretch|mobility_side_lying_floor
+Spine Lumbar Twist Stretch|mobility_lumbar_twist
+Left Quad Stretch with Wall|mobility_l_quad_wall
+Right Quad Stretch with Wall|mobility_r_quad_wall
+Kneeling Lunge Stretch|mobility_kneeling_lunge
+Anterior Shoulder Stretch|mobility_anterior_shoulder
+Chest Stretch|mobility_chest_stretch
+Cobra Stretch|mobility_cobra_stretch
+Calf Stretch|mobility_calf_stretch
+Adductor Stretch in Standing|mobility_adductor_std
+Cross|boxing_cross
+Lead Hook|boxing_lead_hook
+Rear Hook|boxing_rear_hook
+Lead Uppercut|boxing_lead_uppercut
+Rear Uppercut|boxing_rear_uppercut
+Flicker Jab|boxing_flicker_jab
+Check Hook|boxing_check_hook
+Step-In Jab|boxing_step_in_jab
+Parry|boxing_parry
+Roll|boxing_roll
+Block|boxing_block
+Step Back|boxing_step_back
+Lean Back|boxing_lean_back
+Duck|boxing_duck
+L Step|footwork_l_step
+Pivot|footwork_pivot
+Philly Shell|boxing_stance_philly_shell
+Attitude & Flow|boxing_stance_attitude_flow
+Pendulum Stance|boxing_stance_pendulum
+Hands Down|boxing_stance_hands_down
+Soviet Style|boxing_stance_soviet
+Shadow Boxing Tips|boxing_shadow_tips
+Doubling Punches|boxing_tactic_doubling
+Feints|boxing_tactic_feints
+Managing Distances|boxing_tactic_distance
+1-1-2 — Jab + Jab + Cross|boxing_combo_1_1_2
+1-2-3 — Jab + Cross + Lead Hook|boxing_combo_1_2_3
+1-2-1 — Jab + Cross + Jab|boxing_combo_1_2_1
+1-2-3-4 — Jab + Cross + Lead Hook + Rear Hook|boxing_combo_1_2_3_4
+1-1-2 Body — Jab + Jab + Cross to Body|boxing_combo_1_1_2_body
+1-2-3-6 — Jab + Cross + Lead Hook + Rear Uppercut|boxing_combo_1_2_3_6
+1-2-1-4 — Jab + Cross + Jab + Rear Hook|boxing_combo_1_2_1_4
+1-2-1-2 — Jab + Cross + Jab + Cross|boxing_combo_1_2_1_2
+1-2-1-1 — Jab + Cross + Jab + Jab|boxing_combo_1_2_1_1
+2 - Slip Right — Cross + Slip Right|boxing_combo_2_slip_cross
+2 - Slip Right - 2 — Cross + Slip Right + Cross|boxing_combo_2_slip_cross_2
+1-2-1-1-2 — Jab + Cross + Jab + Jab + Cross|boxing_combo_1_2_1_1_2
+1-6 — Jab + Rear Uppercut|boxing_combo_1_6
+1-1-6 — Jab + Jab + Rear Uppercut|boxing_combo_1_1_6
+1-1 Body — Jab + Jab to Body|boxing_combo_1_1_body
+1-1 Body-2 — Jab + Jab Body + Cross|boxing_combo_1_1_body_2
+1-2-Slip Right-2 — Jab + Cross + Slip Right + Cross|boxing_combo_1_2_slip_2
+1-Slip Left-1 — Jab + Slip Left + Jab|boxing_combo_1_slip_1
+1-2-Step Back-2 — Jab + Cross + Step Back + Cross|boxing_combo_1_2_step_2
+All Shuffle + Punches|boxing_drill_shuffle_punches
+All Shuffle|boxing_drill_shuffle
+Cross Straddle + Punches|boxing_drill_straddle_punches
+High Knees + Punches|boxing_drill_high_knees_punches
+Jumping Box|boxing_drill_jumping_box
+Lunges with Punches|boxing_drill_lunges_punches
+Pendulum 1-2|boxing_drill_pendulum_1_2
+Pendulum Box|boxing_drill_pendulum_box
+Pendulum Jab|boxing_drill_pendulum_jab
+Rock Box|boxing_drill_rock_box
+Shoe Shine|boxing_drill_shoe_shine
+Side Shift Uppercut|boxing_drill_side_shift_uppercut
+Squat + 2 Side Punches|boxing_drill_squat_2_side
+Squats + Punches|boxing_drill_squats_punches
+Step In/Out + Punches|boxing_drill_step_in_out
+Turn With Punches|boxing_drill_turn_punches
+Continuous Switch|footwork_cont_switch
+Continuous Switch Forward/Backward|footwork_cont_switch_fwd_back
+Reverse Switch|footwork_rev_switch
+Forward Dash Switch + Backward Dash Switch|footwork_fwd_back_dash_switch
+Double Forward Dash Switch + Double Backward Dash Switch|footwork_double_fwd_back_dash
+Side Dash|footwork_side_dash
+Side Dash Switch 2 Times|footwork_side_dash_switch_2
+V-Step|footwork_v_step
+V-Step Switch|footwork_v_step_switch
+Zig-Zag Switch|footwork_zig_zag_switch
+Turn Step Forward + Backward Dash|footwork_turn_step_fwd_back
+Reverse Turn Step + Backward Dash|footwork_rev_turn_back_dash
+Forward Dash + Reverse Jump Switch|footwork_fwd_rev_jump_switch
+Skip Forward + Jump Switch + Backward Dash|footwork_skip_fwd_jump_back
+Big Dash Forward + Two Small Steps Backward|footwork_big_fwd_small_back
+Two Small Steps Forward + Big Dash Backward|footwork_two_fwd_big_back
+Skip Dash Forward + Skip Dash Backward + Jump Switch|footwork_skip_fwd_back_switch
+Skip Dash Forward + Triple Jump Switch|footwork_skip_fwd_triple_switch
+Skip Dash Forward + Turn Step Dash Backward|footwork_skip_fwd_turn_back
+Tornado Feint Stance Switch|footwork_tornado_feint_switch
+Tornado Feint Jump Back Kick Feint|footwork_tornado_feint_back_kick
+Active Single Hand Side Swings|jump_rope_active_single_hand
+Ali Shuffle|jump_rope_ali_shuffle
+Basic Bounce|jump_rope_basic_bounce
+Boxer Skip|jump_rope_boxer_skip
+Catch with Foot|jump_rope_catch_foot
+Criss Cross|jump_rope_criss_cross
+Cross Straddle|jump_rope_cross_straddle
+Diagonal Straddle|jump_rope_diagonal_straddle
+Double Under|jump_rope_double_under
+Double Under + Criss Cross|jump_rope_double_criss
+Inside-Out Kick + Outside-In Kick + Spinning Back Kick|kicks_combo_2
+Spinning Back Kick + High Kick + Inside-Out Kick|kicks_combo_3
+Low Kick + Front Kick + Spinning Back Kick|kicks_combo_4
+Back Kick + High Kick + Front Kick|kicks_combo_5
+Spinning Low Kick + Middle Side Kick + High Kick|kicks_combo_6
+Whip Kick + Front Kick + Spinning Back Kick|kicks_combo_7
+High Side Kick + Axe Kick + Middle Kick|kicks_combo_8
+Back Kick + Outside-In Kick|kicks_combo_9
+Full Kick + Axe Kick|kicks_combo_10
+Inside-Out Kick + Spinning Back Kick|kicks_combo_11
+Roundhouse Kick + Pop Jumping Back Kick|kicks_combo_12
+Push Kick + Jumping Back Kick|kicks_combo_13
+Middle Side Kick + Spinning Middle Kick + Inside-Out Kick|kicks_combo_14
+Crescent Kick + Roundhouse Kick|kicks_combo_15
+Axe Kick + Tornado Kick|kicks_combo_16
+Spinning Roundhouse Kick + Jumping Back Kick|kicks_combo_17
+Spinning Back Push Kick + Jumping Axe Kick|kicks_combo_18
+Front Kick + Tornado Kick|kicks_combo_19
+Push Kick + Jumping Spinning Back Kick|kicks_combo_20
+Roundhouse Kick + Jumping Front Push Kick|kicks_combo_21
+Back Kick + Jumping Axe Kick|kicks_combo_22
+Full Kick + Tornado Kick|kicks_combo_23
+2 Tornado Kick|kicks_combo_24
+Front Kick + Jumping Back Kick|kicks_combo_25
+Roundhouse Kick + Jumping Tornado Kick|kicks_combo_26
+Back Kick + Tornado Kick|kicks_combo_27
+Push Kick + Tornado Kick|kicks_combo_28
+Roundhouse Kick + Jumping Axe Kick|kicks_combo_29
+Back Kick + Jumping Tornado Kick|kicks_combo_30
+Axe Kick + Jumping Front Push Kick|kicks_combo_31
+Spinning Back Push Kick + Tornado Kick|kicks_combo_32
+Front Kick + Jumping Spinning Back Kick|kicks_combo_33
+Spinning Back Kick + Tornado Kick|kicks_combo_34
+Back Sweep Kick + Jumping Axe Kick|kicks_combo_35
+Front Sweep Kick + Jumping Spinning Back Kick|kicks_combo_36
+Roundhouse Kick + Tornado Kick|kicks_combo_37
+Back Kick + Jumping Spinning Back Pop Kick|kicks_combo_38
+Axe Kick + Side Kick|kicks_combo_39
+Side Kick + Inside-Out Kick|kicks_combo_40
+Back Kick + Front Kick|kicks_combo_41
+Inside-Out Kick + Side Kick|kicks_combo_42
+Axe Kick + Front Kick|kicks_combo_43
+Roundhouse Kick + Axe Kick|kicks_combo_44
+Side Kick + Spinning Back Kick|kicks_combo_45
+Front Kick + Full Kick|kicks_combo_46
+Axe Kick + Back Kick|kicks_combo_47
+Side Kick + Axe Kick|kicks_combo_48
+Full Kick + Side Kick|kicks_combo_49
+Back Kick + Side Kick|kicks_combo_50
+Front Kick + Jumping Front Kick|kicks_combo_51
+Front Kick + Roundhouse Kick|kicks_combo_52
+Side Kick + Front Kick|kicks_combo_53
+Back Kick + Roundhouse Kick|kicks_combo_54
+Roundhouse Kick + Side Kick|kicks_combo_55
+Front Kick + Axe Kick|kicks_combo_56
+Side Kick + Back Kick|kicks_combo_57
+Axe Kick + Roundhouse Kick|kicks_combo_58
+Front Kick + Side Kick|kicks_combo_59
+Side Kick + Roundhouse Kick|kicks_combo_60
+Back Kick + Axe Kick|kicks_combo_61
+Roundhouse Kick + Back Kick|kicks_combo_62
+Push Kick|kicks_push
+Low Kick|kicks_low
+Middle Kick|kicks_mid
+High Kick|kicks_high
+Side Kick|kicks_side
+Back Kick|kicks_back
+Whip Kick|kicks_whip
+Axe Kick|kicks_axe
+Spinning Back Kick|kicks_spin_back
+Front Sweep Kick|kicks_front_sweep
+Back Sweep Kick|kicks_back_sweep
+Spinning Low Kick|kicks_spin_low
+Spinning Middle Kick|kicks_spin_mid
+Spinning High Kick|kicks_spin_high
+High Kick Front Leg|kicks_high_front
+Middle Kick Front Leg|kicks_mid_front
+Low Kick Front Leg|kicks_low_front
+Inside-Out Kick|kicks_inside_out
+Outside-In Kick|kicks_outside_in
+Full Low Kick|kicks_full_low
+Full Middle Kick|kicks_full_mid
+Full High Kick|kicks_full_high
+Crescent Kick|kicks_crescent
+Hook Kick|kicks_hook
+Spinning Roundhouse Kick|kicks_spin_round
+Tornado Kick|kicks_tornado
+Jumping Spinning Back Pop Kick|kicks_jump_spin_pop
+Jumping Axe Kick|kicks_jump_axe
+Jumping Whip Kick|kicks_jump_whip
+Jumping Inside-Out Kick|kicks_jump_inside_out
+Jumping Front Kick|kicks_jump_front
+Jumping Front Push Kick|kicks_jump_front_push
+Jumping Side Kick|kicks_jump_side
+Jumping Back Kick|kicks_jump_back
+3 Front Kick No Step Down with Chair|kicks_chair_front_3ns
+Roundhouse Kick with Chair|kicks_chair_round
+Roundhouse Kick 1 Second with Chair|kicks_chair_round_1s
+3 Roundhouse Kick with Chair|kicks_chair_round_3
+Side Kick with Chair|kicks_chair_side
+Side Kick 1 Second with Chair|kicks_chair_side_1s
+3 Side Kick with Chair|kicks_chair_side_3
+Back Kick with Chair|kicks_chair_back
+Hook Kick with Chair|kicks_chair_hook
+Axe Kick with Chair|kicks_chair_axe
+Crescent Kick with Chair|kicks_chair_crescent
+Spinning Roundhouse Kick with Chair|kicks_chair_spin_round
+Spinning Hook Kick with Chair|kicks_chair_spin_hook
+Knee Slide Pass Transition|grapple_trans_knee_slide
+Sprawl to Front Headlock|grapple_trans_sprawl_fhl
+Guard to Half Guard|grapple_trans_guard_to_half
+Side Control to North South|grapple_trans_side_to_ns
+Back to Mount|grapple_trans_back_to_mount
+Turtle to Guard Recovery|grapple_trans_turtle_to_guard
+Berimbolo|grapple_trans_berimbolo
+Kimura Trap|grapple_trans_kimura_trap
+Arm Drag to Back Take|grapple_trans_arm_drag_back
+Crab Ride|grapple_trans_crab_ride
+Truck Entry|grapple_trans_truck_entry
+Wrestle Up|grapple_trans_wrestle_up
+Guard to Side Control|grapple_trans_guard_to_side
+Side Control to Mount|grapple_trans_side_to_mount
+Mount to Back|grapple_trans_mount_to_back
+Single Leg Takedown|grapple_td_single_leg
+Ankle Pick|grapple_td_ankle_pick
+Body Lock Takedown|grapple_td_body_lock
+Arm Drag|grapple_td_arm_drag
+Snap Down|grapple_td_snap_down
+Hip Throw|grapple_td_hip_throw
+Foot Sweep|grapple_td_foot_sweep
+Outside Leg Trip|grapple_td_outside_trip
+Inside Leg Trip|grapple_td_inside_trip
+Harai Goshi|grapple_td_harai_goshi
+Uchi Mata|grapple_td_uchi_mata
+Seoi Nage|grapple_td_seoi_nage
+Tai Otoshi|grapple_td_tai_otoshi
+Tomoe Nage|grapple_td_tomoe_nage
+Sumi Gaeshi|grapple_td_sumi_gaeshi
+Kouchi Gari|grapple_td_kouchi_gari
+Sasae Tsurikomi Ashi|grapple_td_sasae
+Tani Otoshi|grapple_td_tani_otoshi
+High Crotch|grapple_td_high_crotch
+Duck Under|grapple_td_duck_under
+Low Single|grapple_td_low_single
+Knee Tap|grapple_td_knee_tap
+Lateral Drop|grapple_td_lateral_drop
+Slide By|grapple_td_slide_by
+Mount Escape|grapple_esc_mount
+Side Control Escape|grapple_esc_side
+Back Escape|grapple_esc_back
+Half Guard Escape|grapple_esc_half
+Closed Guard Escape|grapple_esc_closed
+Knee on Belly Escape|grapple_esc_knee_belly
+Triangle Choke Escape|grapple_esc_triangle
+Armbar Escape|grapple_esc_armbar
+Kimura Escape|grapple_esc_kimura
+Guillotine Escape|grapple_esc_guillotine
+North South Escape|grapple_esc_ns
+Scarf Hold Escape|grapple_esc_scarf
+Heel Hook Defense|grapple_esc_heel_hook
+Sprawl|grapple_esc_sprawl
+Guard Retention|grapple_esc_retention
+Framing|grapple_esc_framing
+Takedown Defense|grapple_esc_td_def
+Rear Naked Choke Defense|grapple_esc_rnc_def
+Stack Pass|grapple_pass_stack
+Over Under Pass|grapple_pass_over_under
+Double Under Pass|grapple_pass_double_under
+Leg Drag Pass|grapple_pass_leg_drag
+Toreando Pass|grapple_pass_toreando
+Smash Pass|grapple_pass_smash
+Long Step Pass|grapple_pass_long_step
+X-Pass|grapple_pass_x_pass
+Body Lock Pass|grapple_pass_body_lock
+Float Pass|grapple_pass_float
+Backstep Pass|grapple_pass_backstep
+Folding Pass|grapple_pass_folding
+Half Guard|grapple_guard_half
+Butterfly Guard|grapple_guard_butterfly
+De La Riva Guard|grapple_guard_dlr
+Reverse De La Riva|grapple_guard_rdlr
+Spider Guard|grapple_guard_spider
+Lasso Guard|grapple_guard_lasso
+X-Guard|grapple_guard_x
+Single Leg X Guard|grapple_guard_slx
+50/50 Guard|grapple_guard_50_50
+Deep Half Guard|grapple_guard_deep_half
+Rubber Guard|grapple_guard_rubber
+Z-Guard|grapple_guard_z
+Worm Guard|grapple_guard_worm
+Pendulum Sweep|grapple_sweep_pendulum
+X-Guard Sweep|grapple_sweep_x_guard
+Balloon Sweep|grapple_sweep_balloon
+Hook Sweep|grapple_sweep_hook
+Arm Drag Sweep|grapple_sweep_arm_drag
+Tripod Sweep|grapple_sweep_tripod
+Elevator Sweep|grapple_sweep_elevator
+Kimura Sweep|grapple_sweep_kimura
+Old School Sweep|grapple_sweep_old_school
+Waiter Sweep|grapple_sweep_waiter
+Lumberjack Sweep|grapple_sweep_lumberjack
+Overhead Sweep|grapple_sweep_overhead
+Sickle Sweep|grapple_sweep_sickle
+Electric Chair Sweep|grapple_sweep_electric
+Scissor Sweep|grapple_sweep_scissor
+Butterfly Sweep|grapple_sweep_butterfly
+Flower Sweep|grapple_sweep_flower
+Triangle Choke|grapple_sub_triangle
+Rear Naked Choke|grapple_sub_rnc
+Kimura|grapple_sub_kimura
+Guillotine Choke|grapple_sub_guillotine
+Americana|grapple_sub_americana
+Omoplata|grapple_sub_omoplata
+Ezekiel Choke|grapple_sub_ezekiel
+Anaconda Choke|grapple_sub_anaconda
+Arm Triangle Choke|grapple_sub_arm_triangle
+Gogoplata|grapple_sub_gogoplata
+North South Choke|grapple_sub_ns_choke
+Clock Choke|grapple_sub_clock
+Paper Cutter Choke|grapple_sub_paper_cutter
+Peruvian Necktie|grapple_sub_peruvian
+Japanese Necktie|grapple_sub_japanese
+Von Flue Choke|grapple_sub_von_flue
+Bulldog Choke|grapple_sub_bulldog
+Banana Split|grapple_sub_banana
+Wrist Lock|grapple_sub_wrist
+Bicep Slicer|grapple_sub_bicep_slicer
+Buggy Choke|grapple_sub_buggy
+Tarikoplata|grapple_sub_tarikoplata
+Crucifix Choke|grapple_sub_crucifix
+Monoplata|grapple_sub_monoplata
+Bow and Arrow Choke|grapple_sub_bow_arrow
+Inverted Triangle|grapple_sub_inv_triangle
+Lapеl Choke|grapple_sub_lapel
+Cross Collar Choke|grapple_sub_cross_collar
+Ankle Lock|grapple_sub_ankle
+Kneebar|grapple_sub_kneebar
+Toehold|grapple_sub_toehold
+Calf Slicer|grapple_sub_calf_slicer
+Estima Lock|grapple_sub_estima
+Inside Heel Hook|grapple_sub_in_heel
+Outside Heel Hook|grapple_sub_out_heel
+Baseball Bat Choke|grapple_sub_baseball
+Loop Choke|grapple_sub_loop
+1-2 Knee Touches|1_2_knee_touches
+1-2 — Jab + Cross|1_2___jab__plus__cross
+Active Side Swings|active_side_swings
+Air Punches|air_punches
+Armbar|armbar
+Basic Footwork|basic_footwork
+Closed Guard|closed_guard
+Double Leg Takedown|double_leg_takedown
+Dumbbell Bench Press|dumbbell_bench_press
+Front Kick|front_kick
+Front Kick 1 Second with Chair|front_kick_1_second_with_chair
+Half Guard to Full Guard|half_guard_to_full_guard
+High Intensity|high_intensity
+Hip Bump Sweep|hip_bump_sweep
+Hip Escape|hip_escape
+Jab|jab
+Jumping Spinning Back Kick|jumping_spinning_back_kick
+Knee Slice Pass|knee_slice_pass
+Light Intensity|light_intensity
+Max Intensity|max_intensity
+Normal Intensity|normal_intensity
+Push Kick + Spinning Middle Kick + Middle Side Kick|push_kick__plus__spinning_middle_kick__plus__middle_side_kick
+Shifting|shifting
+Slip|slip
+Split Side Stretch|split_side_stretch
+Stance|stance
+Targeting the Body|targeting_the_body
+D|darce_choke
+Fireman|firemans_carry
+V-Up|v_up
+Single Arm Renegade Row|single_arm_renegade_row
+Fire Hydrant|fire_hydrant
+Donkey Kicks|donkey_kicks
+Curtsy Lunges|curtsy_lunges
+Butt Bridge|butt_bridge
+Bicycle Crunches|bicycle_crunches
+Backward Lunge|backward_lunge
+Arm Raises|arm_raises
+Arm Circles|arm_circles

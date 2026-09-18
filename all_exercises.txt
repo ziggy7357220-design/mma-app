@@ -1,0 +1,429 @@
+boxing_footwork_beg|Warm-up
+boxing_footwork_beg|Stance Integrity
+boxing_footwork_beg|Linear Slides
+boxing_footwork_beg|Lateral Slides
+boxing_footwork_beg|Cool-down
+boxing_fundamentals|Warm-up
+boxing_fundamentals|Guard Mastery
+boxing_fundamentals|The Jab
+boxing_fundamentals|The Cross
+boxing_fundamentals|The 1-2 Sequence
+boxing_fundamentals|Cool-down
+boxing_punches_beg|Warm-up
+boxing_punches_beg|The Recoil
+boxing_punches_beg|Relaxation/Snap
+boxing_punches_beg|Speed Control
+boxing_punches_beg|Cool-down
+boxing_cond_beg|Warm-up
+boxing_cond_beg|Stance Intervals
+boxing_cond_beg|Rotational Core
+boxing_cond_beg|Recovery Movement
+boxing_footwork|Warm-up
+boxing_footwork|Controlled Pivots
+boxing_footwork|L-Step/V-Step
+boxing_footwork|Angle Integration
+boxing_footwork|Ring Cutting
+boxing_footwork|Cool-down
+boxing_punches_int|Warm-up
+boxing_punches_int|Mechanics
+boxing_punches_int|Integration
+boxing_punches_int|Range/Level Changes
+boxing_punches_int|Controlled Power
+boxing_punches_int|Cool-down
+boxing_defense|Warm-up
+boxing_defense|The Slip
+boxing_defense|The Roll
+boxing_defense|The Parry
+boxing_defense|Defensive-Counter
+boxing_defense|Cool-down
+boxing_combinations|Warm-up
+boxing_combinations|Long Range
+boxing_combinations|Mid Range
+boxing_combinations|Inside Range
+boxing_combinations|Range Transition
+boxing_combinations|Cool-down
+boxing_bag_work|Warm-up
+boxing_bag_work|Precision Impact
+boxing_bag_work|Combination Power
+boxing_bag_work|High-Output Intervals
+boxing_bag_work|Cool-down
+boxing_combos_adv|Warm-up
+boxing_combos_adv|Complexity Layering
+boxing_combos_adv|Defense-Offense Integration
+boxing_combos_adv|Angle Exits
+boxing_combos_adv|Conditional Transitions
+boxing_combos_adv|Cool-down
+boxing_advanced_drills|Warm-up
+boxing_advanced_drills|Scenario A - The Aggressor
+boxing_advanced_drills|Scenario B - The Counter
+boxing_advanced_drills|Scenario C - The Infighter
+boxing_advanced_drills|Conditional Response
+boxing_advanced_drills|Champ Round
+boxing_advanced_drills|Cool-down
+mt_fund_beg|Warm-up
+mt_fund_beg|Stance Integrity
+mt_fund_beg|The Thai March
+mt_fund_beg|High Guard Maintenance
+mt_fund_beg|Integrated Motion
+mt_fund_beg|Cool-down
+mt_footwork_beg|Warm-up
+mt_footwork_beg|Linear Slides
+mt_footwork_beg|Basic Pivots
+mt_footwork_beg|Square Motion
+mt_footwork_beg|Rhythm Hold
+mt_footwork_beg|Cool-down
+mt_striking_beg|Warm-up
+mt_striking_beg|The 4 Punches
+mt_striking_beg|The 2 Kicks
+mt_striking_beg|The 2 Knees
+mt_striking_beg|The Elbows
+mt_striking_beg|Cool-down
+mt_kicks_beg|Warm-up
+mt_kicks_beg|Teep Mechanics
+mt_kicks_beg|The Pivot
+mt_kicks_beg|Mid-kick Arc
+mt_kicks_beg|Low-kick Snap
+mt_kicks_beg|Recovery/Reset
+mt_kicks_beg|Cool-down
+mt_cond_beg|Warm-up
+mt_cond_beg|Stance Endurance Intervals
+mt_cond_beg|Rotational Core
+mt_cond_beg|Hip Mobility
+mt_cond_beg|Cool-down
+mt_defense_beg|Warm-up
+mt_defense_beg|Guard Positioning
+mt_defense_beg|Lead Check
+mt_defense_beg|Rear Check
+mt_defense_beg|Punch Parries
+mt_defense_beg|Recovery/Reset
+mt_defense_beg|Cool-down
+mt_elbows_int|Warm-up
+mt_elbows_int|Horizontal Elbows
+mt_elbows_int|Upward Elbows
+mt_elbows_int|Diagonal Elbows
+mt_elbows_int|Entry/Exit Drills
+mt_elbows_int|Recovery/Reset
+mt_elbows_int|Cool-down
+mt_knees_int|Warm-up
+mt_knees_int|Straight Knee Mechanics
+mt_knees_int|Curving Knee Mechanics
+mt_knees_int|Knee-Punch Integration
+mt_knees_int|Hip-Drive Intervals
+mt_knees_int|Recovery/Reset
+mt_knees_int|Cool-down
+mt_striking_int|Warm-up
+mt_striking_int|Punch-to-Kick
+mt_striking_int|Kick-to-Punch
+mt_striking_int|Punch-to-Knee
+mt_striking_int|Full Limb Flow
+mt_striking_int|Cool-down
+mt_clinch_int|Warm-up
+mt_clinch_int|Plum Posture Hold
+mt_clinch_int|Neck Control Motion
+mt_clinch_int|Shoulder-Rolls
+mt_clinch_int|Clinch-Knee Flow
+mt_clinch_int|Cool-down
+mt_combos_int|Warm-up
+mt_combos_int|Linear Combinations
+mt_combos_int|Mixed-Limb Combinations
+mt_combos_int|Rhythm Switches
+mt_combos_int|Flow Intervals
+mt_combos_int|Cool-down
+mt_cond_int|Warm-up
+mt_cond_int|High-Output Bursts
+mt_cond_int|Active Recovery March
+mt_cond_int|Rotational Power Core
+mt_cond_int|Final Endurance Hold
+mt_cond_int|Cool-down
+mt_def_int|Warm-up
+mt_def_int|Check-to-Kick
+mt_def_int|Lean-to-Punch
+mt_def_int|Slip-to-Elbow
+mt_def_int|Reaction Flow
+mt_def_int|Cool-down
+mt_combos_adv|Warm-up
+mt_combos_adv|Feint-to-Strike
+mt_combos_adv|Distance-Shift Flow
+mt_combos_adv|High-Complexity Chains
+mt_combos_adv|Conditional Response
+mt_combos_adv|Cool-down
+mt_movement_int|Warm-up
+mt_movement_int|L/V Step Drills
+mt_movement_int|Pivot-to-Strike
+mt_movement_int|Ring Cutting Motion
+mt_movement_int|Movement-Sprints
+mt_movement_int|Cool-down
+mt_adv_drills|Warm-up
+mt_adv_drills|Scenario A: The Aggressor
+mt_adv_drills|Scenario B: The Out-fighter
+mt_adv_drills|Scenario C: The Clincher
+mt_adv_drills|Conditional Reaction
+mt_adv_drills|Champ Round
+mt_adv_drills|Cool-down
+tkd_footwork_beg|Warm-up
+tkd_footwork_beg|Stance Integrity
+tkd_footwork_beg|Linear Slides
+tkd_footwork_beg|Pivot Basics
+tkd_footwork_beg|Rhythm Drills
+tkd_footwork_beg|Cool-down
+tkd_kicking_beg|Warm-up
+tkd_kicking_beg|Front Snap Kick
+tkd_kicking_beg|Roundhouse Basics
+tkd_kicking_beg|Side Kick Basics
+tkd_kicking_beg|Kicking Drills
+tkd_kicking_beg|Recovery/Reset
+tkd_kicking_beg|Cool-down
+tkd_blocks_beg|Warm-up
+tkd_blocks_beg|Low Block
+tkd_blocks_beg|High Block
+tkd_blocks_beg|Inner Block
+tkd_blocks_beg|Block-to-Stance Flow
+tkd_blocks_beg|Cool-down
+tkd_fund_beg|Warm-up
+tkd_fund_beg|Stance Mastery
+tkd_fund_beg|Basic Punching
+tkd_fund_beg|Integrated Motion
+tkd_fund_beg|Core Stability
+tkd_fund_beg|Cool-down
+tkd_kicking_int|Warm-up
+tkd_kicking_int|Double Kicks
+tkd_kicking_int|Spinning Hook Kick
+tkd_kicking_int|Tornado Kick
+tkd_kicking_int|Precision Drills
+tkd_kicking_int|Recovery Flow
+tkd_kicking_int|Cool-down
+tkd_combos_int|Warm-up
+tkd_combos_int|Punch-Kick Flow
+tkd_combos_int|Double Kick Flow
+tkd_combos_int|Defense-Counter
+tkd_combos_int|Combo Intervals
+tkd_combos_int|Reset & Recover
+tkd_combos_int|Cool-down
+tkd_movement_int|Warm-up
+tkd_movement_int|Sliding Steps
+tkd_movement_int|Pivot-Turn
+tkd_movement_int|Combat Bouncing
+tkd_movement_int|Distance Drills
+tkd_movement_int|Cool-down
+tkd_mobility_beg|Dynamic Warm-up
+tkd_mobility_beg|Leg Swings
+tkd_mobility_beg|Hip Openers
+tkd_mobility_beg|Static Stretching
+tkd_mobility_beg|Cool-down
+tkd_advanced_flow|Warm-up
+tkd_advanced_flow|Multi-Kick Sequences
+tkd_advanced_flow|Precision Targets
+tkd_advanced_flow|Speed Drills
+tkd_advanced_flow|Flow Scenarios
+tkd_advanced_flow|Cool-down
+bjj_fund_beg|Warm-up
+bjj_fund_beg|Shrimp Sets
+bjj_fund_beg|Bridging
+bjj_fund_beg|Technical Stand-up
+bjj_fund_beg|Core Stability
+bjj_fund_beg|Cool-down
+bjj_guard_beg|Warm-up
+bjj_guard_beg|Guard Posture
+bjj_guard_beg|Open Guard Transitions
+bjj_guard_beg|Closed Guard Maintenance
+bjj_guard_beg|Guard Recovery
+bjj_guard_beg|Cool-down
+bjj_passing_int|Warm-up
+bjj_passing_int|Toreando Pass
+bjj_passing_int|Pressure Pass
+bjj_passing_int|Pass-to-Mount
+bjj_passing_int|Guard Recovery Counter
+bjj_passing_int|Cool-down
+bjj_escapes_beg|Warm-up
+bjj_escapes_beg|Mount Escape
+bjj_escapes_beg|Side Control Escape
+bjj_escapes_beg|Back Escape
+bjj_escapes_beg|Escape Drills
+bjj_escapes_beg|Cool-down
+bjj_sweeps_int|Warm-up
+bjj_sweeps_int|Scissor Sweep
+bjj_sweeps_int|Flower Sweep
+bjj_sweeps_int|Tripod Sweep
+bjj_sweeps_int|Sweep-to-Top Transition
+bjj_sweeps_int|Cool-down
+bjj_subs_int|Warm-up
+bjj_subs_int|Triangle Choke
+bjj_subs_int|Armbar from Guard
+bjj_subs_int|Omoplata
+bjj_subs_int|Submission Chains
+bjj_subs_int|Cool-down
+bjj_transitions_int|Warm-up
+bjj_transitions_int|Guard to Side
+bjj_transitions_int|Side to Mount
+bjj_transitions_int|Mount to Back
+bjj_transitions_int|Transition-to-Submission
+bjj_transitions_int|Cool-down
+bjj_drills_beg|Warm-up
+bjj_drills_beg|Shrimp Intervals
+bjj_drills_beg|Technical Stand-up Reps
+bjj_drills_beg|Bridging Sets
+bjj_drills_beg|Movement Flow
+bjj_drills_beg|Cool-down
+bjj_fundamentals|Warm-up
+bjj_fundamentals|Guard Retention
+bjj_fundamentals|Sweep Basics
+bjj_fundamentals|Mount Escape
+bjj_fundamentals|Submission Intro
+bjj_fundamentals|Flow Drill
+bjj_fundamentals|Cool-down
+bjj_advanced_flow|Warm-up
+bjj_advanced_flow|Complex Guard Transitions
+bjj_advanced_flow|Submission Hunting
+bjj_advanced_flow|Position Maintenance
+bjj_advanced_flow|Scenario-based Flow
+bjj_advanced_flow|Cool-down
+wrestling_motion_beg|Warm-up
+wrestling_motion_beg|Stance Integrity
+wrestling_motion_beg|Linear Motion
+wrestling_motion_beg|Lateral Motion
+wrestling_motion_beg|Cool-down
+wrestling_levels_beg|Warm-up
+wrestling_levels_beg|The Drop
+wrestling_levels_beg|Penetration Step
+wrestling_levels_beg|Head Positioning
+wrestling_levels_beg|Shot-and-Reset
+wrestling_levels_beg|Cool-down
+wrestling_takedowns_int|Warm-up
+wrestling_takedowns_int|Double Leg
+wrestling_takedowns_int|Single Leg
+wrestling_takedowns_int|High-Crotch
+wrestling_takedowns_int|Finish Sequences
+wrestling_takedowns_int|Takedown-to-Control
+wrestling_takedowns_int|Cool-down
+wrestling_sprawls_int|Warm-up
+wrestling_sprawls_int|Basic Sprawl
+wrestling_sprawls_int|Sprawl-to-Crossface
+wrestling_sprawls_int|Sprawl-to-Underhook
+wrestling_sprawls_int|Circle-out Defense
+wrestling_sprawls_int|Sprawl-to-Counter
+wrestling_sprawls_int|Cool-down
+wrestling_top_int|Warm-up
+wrestling_top_int|Riding Position
+wrestling_top_int|Break-downs
+wrestling_top_int|Pinning Mechanics
+wrestling_top_int|Weight Distribution
+wrestling_top_int|Top-to-Pin Sequence
+wrestling_top_int|Cool-down
+wrestling_escapes_int|Warm-up
+wrestling_escapes_int|The Hip Heist
+wrestling_escapes_int|Sit-out
+wrestling_escapes_int|Stand-up
+wrestling_escapes_int|Bridge-and-Roll
+wrestling_escapes_int|Escape Flow
+wrestling_escapes_int|Cool-down
+wrestling_drills_beg|Warm-up
+wrestling_drills_beg|Shot Intervals
+wrestling_drills_beg|Sprawl Intervals
+wrestling_drills_beg|Movement Flow
+wrestling_drills_beg|Transition Drills
+wrestling_drills_beg|Cool-down
+wrestling_cond_beg|Warm-up
+wrestling_cond_beg|Explosive Bursts
+wrestling_cond_beg|Core Stabilization
+wrestling_cond_beg|Hip Mobility
+wrestling_cond_beg|Endure-and-Hold
+wrestling_cond_beg|Cool-down
+wrestling_fund_beg|Warm-up
+wrestling_fund_beg|Stance Mastery
+wrestling_fund_beg|Level Change Flow
+wrestling_fund_beg|Hand-fighting Basics
+wrestling_fund_beg|Shot-and-Settle
+wrestling_fund_beg|Fundamentals Flow
+wrestling_fund_beg|Cool-down
+wrestling_adv_drills|Warm-up
+wrestling_adv_drills|Chain-Takedowns
+wrestling_adv_drills|Anti-Wrestling
+wrestling_adv_drills|High-Pressure Rounds
+wrestling_adv_drills|Scenario Flow
+wrestling_adv_drills|Champ Round
+wrestling_adv_drills|Cool-down
+strength_circuit|Warm Up
+strength_circuit|Rest
+strength_circuit|Push-ups
+strength_circuit|Rest
+strength_circuit|Squats
+strength_circuit|Rest
+strength_circuit|Lunges
+strength_circuit|Rest
+strength_circuit|Plank Hold
+strength_circuit|Rest
+strength_circuit|Conditioning Round
+strength_circuit|Rest
+strength_circuit|Cool Down
+conditioning_session|Warm Up
+conditioning_session|Interval Round 1
+conditioning_session|Rest
+conditioning_session|Interval Round 2
+conditioning_session|Rest
+conditioning_session|Interval Round 3
+conditioning_session|Cool Down
+kickboxing_foundations|Warm-up
+kickboxing_foundations|Punch-to-Kick
+kickboxing_foundations|Lead-Kick Entry
+kickboxing_foundations|Combination Flow
+kickboxing_foundations|Cool-down
+kickboxing_mechanics|Warm-up
+kickboxing_mechanics|Hip Rotation
+kickboxing_mechanics|Recoil Training
+kickboxing_mechanics|Power Intervals
+kickboxing_mechanics|Cool-down
+kickboxing_movement|Warm-up
+kickboxing_movement|Linear Slides
+kickboxing_movement|Angle Cuts
+kickboxing_movement|Spacing Drills
+kickboxing_movement|Cool-down
+karate_foundations|Warm-up
+karate_foundations|Zenkutsu-dachi
+karate_foundations|Linear Strikes
+karate_foundations|Block-to-Strike
+karate_foundations|Cool-down
+karate_mechanics|Warm-up
+karate_mechanics|Hip Snap
+karate_mechanics|Tension Control
+karate_mechanics|Precision Targeting
+karate_mechanics|Cool-down
+karate_movement|Warm-up
+karate_movement|Sliding Steps
+karate_movement|Directional Pivots
+karate_movement|Stance Transitions
+karate_movement|Cool-down
+judo_foundations|Warm-up
+judo_foundations|Ushiro-ukemi
+judo_foundations|Yoko-ukemi
+judo_foundations|Shizen-tai
+judo_foundations|Cool-down
+judo_mechanics|Warm-up
+judo_mechanics|Pulling Patterns
+judo_mechanics|Directional Pulls
+judo_mechanics|Entry Timing
+judo_mechanics|Cool-down
+judo_movement|Warm-up
+judo_movement|Rotational Steps
+judo_movement|Circular Motion
+judo_movement|Entry-to-Reset
+judo_movement|Cool-down
+footwork_foundations|Warm-up
+footwork_foundations|The Invisible Box
+footwork_foundations|Linear Glide
+footwork_foundations|Lateral Glide
+footwork_foundations|Cool-down
+footwork_mechanics|Warm-up
+footwork_mechanics|The 45-Degree Pivot
+footwork_mechanics|L-Step Pattern
+footwork_mechanics|V-Step Pattern
+footwork_mechanics|Cool-down
+footwork_movement|Warm-up
+footwork_movement|Ring Cutting
+footwork_movement|Distance Pulsing
+footwork_movement|Complex Sequences
+footwork_movement|Cool-down
+strength_mobility|Warm-up
+strength_mobility|Hip Openers
+strength_mobility|Thoracic Mobility
+strength_mobility|Ankle & Wrist Flow
+strength_mobility|Cool-down

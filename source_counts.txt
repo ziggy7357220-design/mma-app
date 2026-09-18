@@ -1,0 +1,591 @@
+      1 1-1 Body — Jab + Jab to Body
+      1 1-1 Body-2 — Jab + Jab Body + Cross
+      1 1-1-2 Body — Jab + Jab + Cross to Body
+      1 1-1-2 — Jab + Jab + Cross
+      1 1-1-6 — Jab + Jab + Rear Uppercut
+      1 1-2 Knee Touches
+      1 1-2 — Jab + Cross
+      1 1-2-1 — Jab + Cross + Jab
+      1 1-2-1-1 — Jab + Cross + Jab + Jab
+      1 1-2-1-1-2 — Jab + Cross + Jab + Jab + Cross
+      1 1-2-1-2 — Jab + Cross + Jab + Cross
+      1 1-2-1-4 — Jab + Cross + Jab + Rear Hook
+      1 1-2-3 — Jab + Cross + Lead Hook
+      1 1-2-3-4 — Jab + Cross + Lead Hook + Rear Hook
+      1 1-2-3-6 — Jab + Cross + Lead Hook + Rear Uppercut
+      1 1-2-Slip Right-2 — Jab + Cross + Slip Right + Cross
+      1 1-2-Step Back-2 — Jab + Cross + Step Back + Cross
+      1 1-6 — Jab + Rear Uppercut
+      1 1-Slip Left-1 — Jab + Slip Left + Jab
+      1 2 - Slip Right - 2 — Cross + Slip Right + Cross
+      1 2 - Slip Right — Cross + Slip Right
+      1 2 Tornado Kick
+      1 3 Front Kick No Step Down with Chair
+      1 3 Roundhouse Kick with Chair
+      1 3 Side Kick with Chair
+      1 50/50 Guard
+      1 Abdominal Crunches
+      1 Active Side Swings
+      1 Active Single Hand Side Swings
+      1 Adductor Stretch
+      1 Adductor Stretch in Standing
+      1 Ali Shuffle
+      1 All Shuffle
+      1 Alternate Hammer Curl
+      1 Alternating Hooks
+      1 Alternating Renegade Row
+      1 Americana
+      1 Anaconda Choke
+      1 Ankle Lock
+      1 Ankle Pick
+      1 Anterior Shoulder Stretch
+      1 Arm Behind Head
+      1 Arm Circles
+      1 Arm Cross Front
+      1 Arm Drag
+      1 Arm Drag Sweep
+      1 Arm Drag to Back Take
+      1 Arm Flutters
+      1 Arm Raises
+      1 Arm Rotation Both
+      1 Arm Rotation Left
+      1 Arm Rotation Right
+      1 Arm Scissors
+      1 Arm Swings with Lateral Steps
+      1 Arm Triangle Choke
+      1 Armbar
+      1 Armbar Escape
+      1 Attitude & Flow
+      1 Axe Kick
+      1 Axe Kick + Back Kick
+      1 Axe Kick + Front Kick
+      1 Axe Kick + Jumping Front Push Kick
+      2 Axe Kick + Roundhouse Kick
+      1 Axe Kick + Side Kick
+      1 Axe Kick + Tornado Kick
+      1 Axe Kick with Chair
+      1 Back Bow Pulls
+      1 Back Escape
+      1 Back Kick
+      1 Back Kick + Axe Kick
+      1 Back Kick + Front Kick
+      1 Back Kick + High Kick + Front Kick
+      1 Back Kick + Jumping Axe Kick
+      1 Back Kick + Jumping Spinning Back Pop Kick
+      1 Back Kick + Jumping Tornado Kick
+      1 Back Kick + Outside-In Kick
+      1 Back Kick + Roundhouse Kick
+      1 Back Kick + Side Kick
+      1 Back Kick + Tornado Kick
+      1 Back Kick with Chair
+      1 Back Sweep Kick
+      1 Back Sweep Kick + Jumping Axe Kick
+      1 Back to Mount
+      1 Backstep Pass
+      1 Backward Lunge
+      1 Balloon Sweep
+      1 Banana Split
+      1 Baseball Bat Choke
+      1 Basic Bounce
+      1 Bench Glute Kick Back
+      1 Bent Over Row
+      1 Berimbolo
+      1 Bicep Slicer
+      1 Bicycle Crunches
+      1 Big Dash Forward + Two Small Steps Backward
+      1 Block
+      1 Body Lock Pass
+      1 Body Lock Takedown
+      1 Bottom Leg Lift
+      1 Bow and Arrow Choke
+      1 Box Push-Ups
+      1 Boxer Skip
+      1 Buggy Choke
+      1 Bulldog Choke
+      1 Burpees
+      1 Butt Bridge
+      1 Butt Kicks
+      1 Butterfly Guard
+      1 Butterfly Stretch
+      1 Butterfly Sweep
+      1 Butterfly with Hands
+      1 Calf Raise with Splayed Foot
+      1 Calf Slicer
+      1 Calf Stretch
+      1 Cat Cow Pose
+      1 Catch with Foot
+      1 Check Hook
+      1 Chest Press Pulse
+      1 Chest Stretch
+      1 Claps Over Head
+      1 Clock Choke
+      1 Closed Guard
+      1 Closed Guard Escape
+      1 Cobra Stretch
+      1 Continuous Switch
+      1 Continuous Switch Forward/Backward
+      1 Cossack Squat Stretch
+      1 Crab Ride
+      1 Crescent Kick
+      1 Crescent Kick + Roundhouse Kick
+      1 Crescent Kick with Chair
+      1 Criss Cross
+      1 Cross
+      1 Cross Body Hammer Curl
+      1 Cross Collar Choke
+      1 Cross Straddle
+      1 Cross Touch and Reach
+      1 Crossover Crunch
+      1 Crucifix Choke
+      1 Curtsy Lunges
+      1 D'Arce Choke
+      1 De La Riva Guard
+      1 Decline Push-Ups
+      1 Deep Half Guard
+      1 Deep Squat Stretch
+      1 Diagonal Plank
+      1 Diagonal Straddle
+      1 Diamond Push-Ups
+      1 Donkey Kicks
+      1 Double Forward Dash Switch + Double Backward Dash Switch
+      1 Double Leg Takedown
+      1 Double Under
+      1 Double Under + Criss Cross
+      1 Double Under Pass
+      1 Duck
+      1 Duck Under
+      1 Dumbbell Backward Lunge
+      1 Dumbbell Bench Press
+      1 Dumbbell Bent Leg Twist
+      1 Dumbbell Bicep Curl to Press
+      1 Dumbbell Bicycle Passes
+      1 Dumbbell Boat Hold
+      1 Dumbbell Bulgarian Split Squat
+      1 Dumbbell Butt Bridge
+      1 Dumbbell Chest Fly
+      1 Dumbbell Close Grip Bench Press
+      1 Dumbbell Crunches
+      1 Dumbbell Cuban Rotation
+      1 Dumbbell Curtsy Lunges
+      1 Dumbbell Decline Floor Press
+      1 Dumbbell Donkey Kicks
+      1 Dumbbell Drag Curls
+      1 Dumbbell Fire Hydrant
+      1 Dumbbell Fly to Close Grip Press
+      1 Dumbbell Front Raise
+      1 Dumbbell Hamstring Curl
+      1 Dumbbell Hip Bridge & Leg Lift
+      1 Dumbbell Hip Hinge
+      1 Dumbbell Hip Thrust
+      1 Dumbbell Jumping Lunge
+      1 Dumbbell Jumping Squat
+      1 Dumbbell Kickbacks
+      1 Dumbbell Lying Triceps Extension
+      1 Dumbbell Paddle Boats
+      1 Dumbbell Plank Rotation
+      1 Dumbbell Plie Squats
+      1 Dumbbell Pullover
+      1 Dumbbell Punch
+      1 Dumbbell Rear Delt Row
+      1 Dumbbell Reverse Crunches
+      1 Dumbbell Reverse Curl
+      1 Dumbbell Right Arm Triceps Kickback
+      1 Dumbbell Russian Twist
+      1 Dumbbell Seated In & Outs
+      1 Dumbbell Shrug
+      1 Dumbbell Side Boat Hold
+      1 Dumbbell Side Lateral Raise
+      1 Dumbbell Side Lunges
+      1 Dumbbell Single Arm Otis Up
+      2 Dumbbell Single Arm Reverse Fly
+      1 Dumbbell Single Leg Deadlift
+      1 Dumbbell Single Leg Hip Thrust
+      1 Dumbbell Split Squat
+      1 Dumbbell Squat Clean and Press
+      1 Dumbbell Squats
+      1 Dumbbell Standing Hip Abduction
+      1 Dumbbell Step-Up Onto Chair
+      1 Dumbbell Swing
+      1 Dumbbell Toe-Touch Crunch
+      1 Dumbbell Torture Tucks
+      1 Dumbbell Triceps Extension
+      1 Dumbbell Up-N-Overs
+      1 Dumbbell Upright Row
+      1 Dumbbell V-Up
+      1 Dumbbell Wide Bicep Curls
+      1 Dumbbell Woodchop
+      1 Dynamic Chest
+      1 Electric Chair Sweep
+      1 Elevator Sweep
+      1 Estima Lock
+      1 Ezekiel Choke
+      1 Feints
+      1 Fire Hydrant
+      1 Fireman's Carry
+      1 Flicker Jab
+      1 Float Pass
+      1 Floor Tricep Dips
+      1 Floor Y Raises
+      1 Flower Sweep
+      1 Flutter Kicks
+      1 Folding Pass
+      1 Foot Sweep
+      1 Forward Bend
+      1 Forward Dash + Reverse Jump Switch
+      1 Forward Dash Switch + Backward Dash Switch
+      2 Forward Straddle
+      1 Framing
+      1 Frog Press
+      1 Frog Stretch
+      1 Front Kick
+      1 Front Kick + Axe Kick
+      1 Front Kick + Full Kick
+      1 Front Kick + Jumping Back Kick
+      1 Front Kick + Jumping Front Kick
+      1 Front Kick + Jumping Spinning Back Kick
+      1 Front Kick + Roundhouse Kick
+      1 Front Kick + Side Kick
+      1 Front Kick + Tornado Kick
+      1 Front Kick 1 Second with Chair
+      1 Front Split
+      1 Front Sweep Kick
+      1 Front Sweep Kick + Jumping Spinning Back Kick
+      1 Full High Kick
+      1 Full Kick + Axe Kick
+      1 Full Kick + Side Kick
+      1 Full Kick + Tornado Kick
+      1 Full Low Kick
+      1 Full Middle Kick
+      1 Glute Kick Back
+      1 Gogoplata
+      1 Guard Retention
+      1 Guard to Half Guard
+      1 Guard to Side Control
+      1 Guillotine Choke
+      1 Guillotine Escape
+      1 Half Guard
+      1 Half Guard Escape
+      1 Half Guard to Full Guard
+      1 Hamstring Alternating Hands
+      1 Hamstring Both Legs
+      1 Hamstring Crouch
+      1 Hands Down
+      1 Harai Goshi
+      1 Head Roll
+      1 Heel Lifts
+      2 Heel Taps
+      2 Heel Toe
+      2 Heel Touch
+      1 High Crotch
+      1 High Intensity
+      1 High Kick
+      1 High Kick Front Leg
+      1 High Side Kick + Axe Kick + Middle Kick
+      1 High Stepping
+      1 Hindu Push-Ups
+      1 Hip Bump Sweep
+      2 Hip Circles
+      1 Hip Escape
+      1 Hip Flexor Stretch
+      1 Hip Hinge
+      1 Hip Throw
+      1 Hook Kick
+      1 Hook Kick with Chair
+      1 Hook Sweep
+      1 Hover Push-Up
+      1 Hyperextension
+      1 Inchworms
+      1 Incline Push-Ups
+      1 Inside Heel Hook
+      1 Inside Leg Trip
+      1 Inside-Out Kick
+      1 Inside-Out Kick + Outside-In Kick + Spinning Back Kick
+      1 Inside-Out Kick + Side Kick
+      1 Inside-Out Kick + Spinning Back Kick
+      1 Inverted Triangle
+      2 Isolated Jumps
+      1 Jab
+      1 Japanese Necktie
+      2 Jog in Place
+      1 Jumping Axe Kick
+      1 Jumping Back Kick
+      2 Jumping Box
+      1 Jumping Front Kick
+      1 Jumping Front Push Kick
+      1 Jumping Inside-Out Kick
+      1 Jumping Jacks
+      1 Jumping Side Kick
+      1 Jumping Spinning Back Kick
+      1 Jumping Spinning Back Pop Kick
+      1 Jumping Squats
+      1 Jumping Whip Kick
+      1 Kimura
+      1 Kimura Escape
+      1 Kimura Sweep
+      1 Kimura Trap
+      1 Knee Circles
+      1 Knee Push-Ups
+      1 Knee Slice Pass
+      1 Knee Slide Pass Transition
+      1 Knee Tap
+      1 Knee on Belly Escape
+      1 Knee to Chest Stretch
+      1 Knee to Elbow Crunches
+      1 Kneebar
+      1 Kneeling Lunge Stretch
+      1 Kouchi Gari
+      1 L Step
+      1 Lapеl Choke
+      1 Lasso Guard
+      1 Lateral Drop
+      1 Lead Hook
+      1 Lead Uppercut
+      1 Lean Back
+      1 Leaning Dumbbell One Leg Calf Raise
+      1 Left Quad Stretch with Wall
+      1 Leg Drag Pass
+      1 Leg Raises
+      1 Light Intensity
+      1 Long Step Pass
+      1 Loop Choke
+      1 Low Kick
+      1 Low Kick + Front Kick + Spinning Back Kick
+      1 Low Kick Front Leg
+      1 Low Single
+      1 Lumberjack Sweep
+      1 Lunge Hamstring Stretch
+      1 Lunges
+      1 Lying Butterfly Stretch
+      1 Lying Twist Stretch
+      1 Make a Big Circle
+      1 Make a Circle
+      1 Make a Line
+      1 Managing Distances
+      1 Max Intensity
+      1 Middle Kick
+      1 Middle Kick Front Leg
+      1 Middle Side Kick + Spinning Middle Kick + Inside-Out Kick
+      1 Military Push-Ups
+      1 Modified Burpees
+      1 Modified Push-Up Low Hold
+      1 Monoplata
+      1 Mount Escape
+      1 Mount to Back
+      1 Mountain Climber
+      1 Normal Intensity
+      2 North South Choke
+      1 North South Escape
+      1 Off Step
+      1 Offset Push-Ups
+      1 Old School Sweep
+      1 Omoplata
+      1 One Leg Balance
+      1 Outside Heel Hook
+      1 Outside Leg Trip
+      1 Outside-In Kick
+      1 Over Under Pass
+      1 Overhead Sweep
+      1 Paper Cutter Choke
+      1 Parry
+      2 Pendulum 1-2
+      2 Pendulum Box
+      2 Pendulum Jab
+      1 Pendulum Stance
+      1 Pendulum Sweep
+      1 Peruvian Necktie
+      1 Philly Shell
+      1 Pigeon Stretch
+      1 Pike Push-Ups
+      1 Pivot
+      1 Plank
+      1 Plank Jacks
+      1 Prone Flutter Kicks
+      1 Prone Triceps Push-Ups
+      1 Psoas Stretch
+      1 Push Kick
+      1 Push Kick + Jumping Back Kick
+      1 Push Kick + Jumping Spinning Back Kick
+      1 Push Kick + Spinning Middle Kick + Middle Side Kick
+      1 Push Kick + Tornado Kick
+      1 Push-Up & Rotation
+      1 Push-Up Row
+      1 Push-Ups
+      1 Quick Feet
+      1 Raised Heels
+      1 Raised Knees
+      1 Reach High, Touch Ground
+      1 Rear Hook
+      1 Rear Naked Choke
+      1 Rear Uppercut
+      1 Reclined Oblique Twist
+      1 Reverse Crunches
+      1 Reverse De La Riva
+      1 Reverse Flutter Kicks
+      1 Reverse Push-Ups
+      1 Reverse Switch
+      1 Reverse Turn Step + Backward Dash
+      1 Right Quad Stretch with Wall
+      2 Rock Box
+      1 Roll
+      1 Roundhouse Kick + Axe Kick
+      1 Roundhouse Kick + Back Kick
+      1 Roundhouse Kick + Jumping Axe Kick
+      1 Roundhouse Kick + Jumping Front Push Kick
+      1 Roundhouse Kick + Jumping Tornado Kick
+      1 Roundhouse Kick + Pop Jumping Back Kick
+      2 Roundhouse Kick + Side Kick
+      1 Roundhouse Kick + Tornado Kick
+      1 Roundhouse Kick 1 Second with Chair
+      1 Roundhouse Kick with Chair
+      1 Rubber Guard
+      1 Running Arm Rotation
+      1 Russian Twist
+      1 Sasae Tsurikomi Ashi
+      1 Say No
+      1 Say Yes
+      1 Scarf Hold Escape
+      1 Scissor Sweep
+      1 Scissors
+      1 Seated Hip Stretch
+      1 Seated Side Bend
+      1 Seoi Nage
+      1 Shifting
+      2 Shoe Shine
+      1 Shoulder Shrugs
+      1 Shoulder Stretch
+      1 Sickle Sweep
+      1 Side Arm Raise
+      1 Side Bend
+      1 Side Bridges
+      1 Side Control Escape
+      1 Side Control to Mount
+      1 Side Control to North South
+      1 Side Dash
+      1 Side Dash Switch 2 Times
+      2 Side Hop
+      1 Side Kick
+      1 Side Kick + Axe Kick
+      1 Side Kick + Back Kick
+      1 Side Kick + Front Kick
+      1 Side Kick + Inside-Out Kick
+      1 Side Kick + Roundhouse Kick
+      1 Side Kick + Spinning Back Kick
+      1 Side Kick 1 Second with Chair
+      1 Side Kick with Chair
+      1 Side Leg Circles
+      1 Side Plank
+      2 Side Shift Uppercut
+      1 Side Straddle
+      1 Side Swings
+      1 Side-Lying Floor Stretch
+      1 Side-Lying Leg Lift
+      1 Single Arm Renegade Row
+      1 Single Hand Side Swings
+      1 Single Leg Calf Hop
+      1 Single Leg Takedown
+      1 Single Leg X Guard
+      1 Sit-Ups
+      2 Skier
+      1 Skip Dash Forward + Skip Dash Backward + Jump Switch
+      1 Skip Dash Forward + Triple Jump Switch
+      1 Skip Dash Forward + Turn Step Dash Backward
+      1 Skip Forward + Jump Switch + Backward Dash
+      1 Slide By
+      1 Slip
+      1 Small Arm Rotations
+      1 Smash Pass
+      1 Snap Down
+      1 Soviet Style
+      1 Spider Guard
+      1 Spinal Twist
+      1 Spine Lumbar Twist Stretch
+      1 Spinning Back Kick
+      1 Spinning Back Kick + High Kick + Inside-Out Kick
+      1 Spinning Back Kick + Tornado Kick
+      1 Spinning Back Push Kick + Jumping Axe Kick
+      1 Spinning Back Push Kick + Tornado Kick
+      1 Spinning High Kick
+      1 Spinning Hook Kick with Chair
+      1 Spinning Low Kick
+      1 Spinning Low Kick + Middle Side Kick + High Kick
+      1 Spinning Middle Kick
+      1 Spinning Roundhouse Kick
+      1 Spinning Roundhouse Kick + Jumping Back Kick
+      1 Spinning Roundhouse Kick with Chair
+      1 Split
+      1 Split - Both Sides
+      1 Split Alternating Hands
+      1 Split Elbows on Ground
+      1 Split Forward Stretch
+      1 Split Side Stretch
+      1 Sprawl
+      1 Sprawl to Front Headlock
+      2 Sprint in Place
+      1 Squats
+      1 Stack Pass
+      1 Staggered Push-Ups
+      1 Stance
+      1 Standing Bicycle Crunches
+      2 Standing Dumbbell Chest Fly
+      1 Standing Dumbbell Curl
+      1 Standing Forward Bend
+      1 Standing Glute Kickbacks
+      1 Standing Hamstring Stretch
+      1 Standing Hip Twist
+      1 Standing Split
+      1 Standing Split Alternate Arms to Leg
+      1 Standing Split Arms to Floor
+      1 Standing Split Arms to Leg
+      1 Standing Split Elbows on Floor
+      1 Standing Split Toes Pointing Up
+      1 Step Back
+      1 Step-In Jab
+      1 Sumi Gaeshi
+      1 Sumo Squat
+      1 Sumo Squat Calf Raises with Wall
+      1 Supine Push-Up
+      1 Supine Spinal Twist
+      2 Swing Kick
+      1 Tai Otoshi
+      1 Tani Otoshi
+      1 Targeting the Body
+      1 Tarikoplata
+      2 Toe Taps
+      1 Toehold
+      1 Tomoe Nage
+      1 Toreando Pass
+      1 Tornado Feint Jump Back Kick Feint
+      1 Tornado Feint Stance Switch
+      2 Tornado Kick
+      1 Torso Twist
+      1 Touch the Floor
+      1 Triangle Choke
+      1 Triangle Choke Escape
+      1 Tripod Sweep
+      1 Truck Entry
+      1 Turn Step Forward + Backward Dash
+      1 Turtle to Guard Recovery
+      3 Twister
+      1 Two Small Steps Forward + Big Dash Backward
+      1 Uchi Mata
+      1 V-Step
+      1 V-Step Switch
+      1 V-Up
+      1 Valley Press
+      1 Von Flue Choke
+      1 Waiter Sweep
+      1 Wall Calf Raises
+      1 Wall Push-Ups
+      1 Wall Sit
+      1 Whip Kick
+      1 Whip Kick + Front Kick + Spinning Back Kick
+      1 Wide Arm Push-Ups
+      1 Worm Guard
+      1 Wrestle Up
+      1 Wrist Lock
+      1 X-Guard
+      1 X-Guard Sweep
+      1 X-Pass
+      1 Yoga Lunge
+      1 Z-Guard
+      1 Zig-Zag Switch

@@ -1,0 +1,12 @@
+Workout ID | Title | Workout.duration | Step Sum | Diff | Authoritative Source | Reason
+boxing_footwork | Boxing — Footwork | 34 | 1860 | -1826 | Step Sum | High-intensity drill with explicit rest intervals.
+boxing_combinations | Boxing — Combinations | 31 | 1800 | -1769 | Step Sum | Pure striking flow.
+boxing_defense | Boxing — Defense | 29 | 1680 | -1651 | Step Sum | Defensive drills.
+taekwondo_kicking | Taekwondo — Kicking | 34 | 1800 | -1766 | Step Sum | Kicking patterns.
+taekwondo_footwork | Taekwondo — Footwork | 29 | 1620 | -1591 | Step Sum | Movement drills.
+muay_thai_striking | Muay Thai — Striking | 31 | 1620 | -1589 | Step Sum | Muay Thai striking.
+kickboxing_combos | Kickboxing — Combos | 31 | 1620 | -1589 | Step Sum | Kickboxing flow.
+wrestling_takedowns | Wrestling — Takedowns | 34 | 1680 | -1646 | Step Sum | Wrestling drills.
+bjj_fundamentals | BJJ — Fundamentals | 29 | 1680 | -1651 | Step Sum | BJJ ground work.
+strength_circuit | Strength Circuit | 22 | 1200 | -1178 | Step Sum | Strength circuit.
+conditioning_session | Conditioning Session | 27 | 1680 | -1653 | Step Sum | HIIT interval.
